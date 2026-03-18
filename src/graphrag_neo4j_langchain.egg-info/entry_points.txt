@@ -1,0 +1,2 @@
+[console_scripts]
+graphrag-query = main:main

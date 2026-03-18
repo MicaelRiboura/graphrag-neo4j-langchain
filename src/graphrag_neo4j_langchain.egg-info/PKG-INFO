@@ -1,0 +1,47 @@
+Metadata-Version: 2.4
+Name: graphrag-neo4j-langchain
+Version: 0.1.0
+Summary: GraphRAG with Neo4j, LangGraph and LangChain
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: langchain>=0.3.0
+Requires-Dist: langchain-openai>=0.2.0
+Requires-Dist: langchain-community>=0.3.0
+Requires-Dist: langgraph>=0.2.0
+Requires-Dist: neo4j>=5.0.0
+Requires-Dist: openai>=1.0.0
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: pydantic>=2.0.0
+Provides-Extra: indexing
+Requires-Dist: igraph>=0.11.0; extra == "indexing"
+Requires-Dist: networkx>=3.0; extra == "indexing"
+
+# GraphRAG with Neo4j, LangGraph and LangChain
+
+Implementação da abordagem GraphRAG (Microsoft) em Python usando Neo4j, LangGraph e LangChain.
+
+## Setup
+
+1. Crie um ambiente virtual e instale as dependências:
+
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate  # Windows
+   pip install -e .
+   ```
+
+2. Copie `.env.example` para `.env` e preencha:
+
+   - `NEO4J_URI`, `NEO4J_USER`, `NEO4J_PASSWORD`
+   - `OPENAI_API_KEY`
+
+## Uso
+
+- **Exemplo completo (indexação + consulta):**  
+  `python examples/simple_graphrag_example.py`  
+  Indexa os documentos em `docs/` (incluindo `docs/sample.txt`) e responde à pergunta padrão. Para outra pergunta:  
+  `python examples/simple_graphrag_example.py "Sua pergunta"`
+
+- **Só consulta:** `python main.py "Sua pergunta"` ou importe `run_query` de `graphrag.graph`.
+
+- **Só indexação:** `python scripts/run_indexing.py --input-dir ./docs`
