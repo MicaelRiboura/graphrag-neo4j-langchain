@@ -1,0 +1,1218 @@
+US Oil & Gas Production and Disposition - NM - 2023
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 642,694,480.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 642,694,480.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 389,427,148.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 389,427,148.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 322,674,240.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 322,674,240.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 307,687,397.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 307,687,397.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 230,161,833.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 230,161,833.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 217,508,881.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 217,508,881.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 188,483,732.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 188,483,732.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 168,429,289.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 168,429,289.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 147,551,821.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 147,551,821.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 90,765,419.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 90,765,419.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 16,038,963.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 16,038,963.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 15,771,329.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 15,771,329.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 13,219,140.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 13,219,140.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 12,606,192.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 12,606,192.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 12,216,711.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 12,216,711.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 10,233,599.00. Aggregated rows: 13. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 10,233,599.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 10,011,560.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 10,011,560.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 5,055,820.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 5,055,820.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 4,959,615.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 4,959,615.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 4,625,693.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 4,625,693.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 4,449,472.00. Aggregated rows: 23. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 4,449,472.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 4,399,663.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 4,399,663.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Due (code: 66).
+Total reported volume: 4,314,447.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 4,314,447.00 volume units for disposition 'Flared Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 2,480,228.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 2,480,228.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 2,138,394.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 2,138,394.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Due (code: 66).
+Total reported volume: 1,669,616.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 1,669,616.00 volume units for disposition 'Flared Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 1,390,738.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 1,390,738.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 1,347,195.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 1,347,195.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 1,150,804.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 1,150,804.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 974,799.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 974,799.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 715,473.00. Aggregated rows: 23. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 715,473.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 560,390.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 560,390.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Pipeline Drip/Retrograde Scrubber Production (code: 16).
+Total reported volume: 530,104.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 530,104.00 volume units for disposition 'Pipeline Drip/Retrograde Scrubber Production'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 508,074.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 508,074.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 474,637.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 474,637.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Due (code: 67).
+Total reported volume: 398,814.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 398,814.00 volume units for disposition 'Flared Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 368,412.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 368,412.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Pipeline Drip/Retrograde Scrubber Production (code: 16).
+Total reported volume: 330,864.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 330,864.00 volume units for disposition 'Pipeline Drip/Retrograde Scrubber Production'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 282,028.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 282,028.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Gas - Royalty Due (code: 33).
+Total reported volume: 273,362.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-06-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 273,362.00 volume units for disposition 'Flared Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 193,052.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Harding. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 193,052.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 157,457.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 157,457.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 152,536.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 152,536.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Due (code: 68).
+Total reported volume: 142,946.00. Aggregated rows: 14. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 142,946.00 volume units for disposition 'Vented Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 136,959.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Colfax. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 136,959.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 110,174.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 110,174.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 107,361.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 107,361.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 105,875.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 105,875.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Spilled and/or Lost-Avoidable-Royalty Due (code: 8).
+Total reported volume: 105,372.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 105,372.00 volume units for disposition 'Spilled and/or Lost-Avoidable-Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Gas - Royalty Due (code: 33).
+Total reported volume: 95,835.00. Aggregated rows: 10. Period covered: 2023-01-01 to 2023-10-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 95,835.00 volume units for disposition 'Flared Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 88,112.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 88,112.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Spilled and/or Lost-Avoidable-Royalty Due (code: 8).
+Total reported volume: 66,714.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 66,714.00 volume units for disposition 'Spilled and/or Lost-Avoidable-Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 59,915.00. Aggregated rows: 10. Period covered: 2023-02-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 59,915.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 47,299.00. Aggregated rows: 3. Period covered: 2023-02-01 to 2023-10-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 47,299.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 45,993.00. Aggregated rows: 23. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 45,993.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 40,997.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 40,997.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 40,867.00. Aggregated rows: 20. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 40,867.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 29,646.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 29,646.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 28,691.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 28,691.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 27,683.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 27,683.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 25,814.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 25,814.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 17,754.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 17,754.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 16,795.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 16,795.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Not Due, Recovered Injection-MEASURED (code: 5).
+Total reported volume: 16,379.00. Aggregated rows: 4. Period covered: 2023-09-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 16,379.00 volume units for disposition 'Sales-Royalty Not Due, Recovered Injection-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 15,084.00. Aggregated rows: 23. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 15,084.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Due (code: 67).
+Total reported volume: 13,630.00. Aggregated rows: 18. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 13,630.00 volume units for disposition 'Flared Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 13,587.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 13,587.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Due (code: 68).
+Total reported volume: 12,673.00. Aggregated rows: 11. Period covered: 2023-02-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 12,673.00 volume units for disposition 'Vented Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 12,299.00. Aggregated rows: 10. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 12,299.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 10,181.00. Aggregated rows: 20. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 10,181.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 9,527.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Quay. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 9,527.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 9,527.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Union. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 9,527.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 9,395.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 9,395.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 7,948.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 7,948.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Transferred to Facility-Returned to L/A (code: 12).
+Total reported volume: 6,984.00. Aggregated rows: 2. Period covered: 2023-04-01 to 2023-05-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 6,984.00 volume units for disposition 'Transferred to Facility-Returned to L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 6,189.00. Aggregated rows: 10. Period covered: 2023-01-01 to 2023-10-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 6,189.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 5,913.00. Aggregated rows: 9. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 5,913.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 5,475.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 5,475.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Due (code: 69).
+Total reported volume: 5,379.00. Aggregated rows: 11. Period covered: 2023-02-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 5,379.00 volume units for disposition 'Vented Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 4,144.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 4,144.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 3,992.00. Aggregated rows: 4. Period covered: 2023-01-01 to 2023-05-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 3,992.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 3,984.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 3,984.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Due (code: 69).
+Total reported volume: 2,768.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 2,768.00 volume units for disposition 'Vented Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Due (code: 69).
+Total reported volume: 2,301.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 2,301.00 volume units for disposition 'Vented Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 1,644.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 1,644.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 1,520.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 1,520.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 1,401.00. Aggregated rows: 5. Period covered: 2023-01-01 to 2023-06-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 1,401.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Spilled and/or Lost-Unavoidable-Royalty Not Due (code: 23).
+Total reported volume: 1,339.00. Aggregated rows: 3. Period covered: 2023-07-01 to 2023-10-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 1,339.00 volume units for disposition 'Spilled and/or Lost-Unavoidable-Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 1,159.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 1,159.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 900.00. Aggregated rows: 2. Period covered: 2023-11-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 900.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Due (code: 67).
+Total reported volume: 674.00. Aggregated rows: 5. Period covered: 2023-03-01 to 2023-11-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 674.00 volume units for disposition 'Flared Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Due (code: 69).
+Total reported volume: 641.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 641.00 volume units for disposition 'Vented Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 588.00. Aggregated rows: 8. Period covered: 2023-01-01 to 2023-10-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 588.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Gas - Royalty Due (code: 33).
+Total reported volume: 564.00. Aggregated rows: 3. Period covered: 2023-01-01 to 2023-03-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 564.00 volume units for disposition 'Flared Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 555.00. Aggregated rows: 3. Period covered: 2023-01-01 to 2023-07-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 555.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 438.00. Aggregated rows: 2. Period covered: 2023-01-01 to 2023-09-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 438.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 312.00. Aggregated rows: 23. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 312.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 188.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Colfax. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 188.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Due (code: 67).
+Total reported volume: 153.00. Aggregated rows: 5. Period covered: 2023-06-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 153.00 volume units for disposition 'Flared Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 153.00. Aggregated rows: 1. Period covered: 2023-07-01 to 2023-07-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 153.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Waste Oil/Slop Oil (code: 29).
+Total reported volume: 146.00. Aggregated rows: 1. Period covered: 2023-10-01 to 2023-10-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 146.00 volume units for disposition 'Waste Oil/Slop Oil'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Due (code: 68).
+Total reported volume: 127.00. Aggregated rows: 10. Period covered: 2023-03-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 127.00 volume units for disposition 'Vented Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Spilled and/or Lost-Unavoidable-Royalty Not Due (code: 23).
+Total reported volume: 126.00. Aggregated rows: 4. Period covered: 2023-01-01 to 2023-07-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 126.00 volume units for disposition 'Spilled and/or Lost-Unavoidable-Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 117.00. Aggregated rows: 2. Period covered: 2023-01-01 to 2023-02-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 117.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 84.00. Aggregated rows: 9. Period covered: 2023-01-01 to 2023-10-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 84.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Due (code: 68).
+Total reported volume: 81.00. Aggregated rows: 10. Period covered: 2023-03-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 81.00 volume units for disposition 'Vented Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Due (code: 68).
+Total reported volume: 75.00. Aggregated rows: 4. Period covered: 2023-03-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 75.00 volume units for disposition 'Vented Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 67.00. Aggregated rows: 1. Period covered: 2023-10-01 to 2023-10-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 67.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 24.00. Aggregated rows: 11. Period covered: 2023-01-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 24.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 14.00. Aggregated rows: 2. Period covered: 2023-01-01 to 2023-02-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 14.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Due (code: 66).
+Total reported volume: 6.00. Aggregated rows: 1. Period covered: 2023-07-01 to 2023-07-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 6.00 volume units for disposition 'Flared Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 3.00. Aggregated rows: 1. Period covered: 2023-01-01 to 2023-01-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 3.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Flared Gas - Royalty Due (code: 33).
+Total reported volume: 3.00. Aggregated rows: 2. Period covered: 2023-01-01 to 2023-02-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 3.00 volume units for disposition 'Flared Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 1.00. Aggregated rows: 5. Period covered: 2023-05-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 1.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Spilled and/or Lost-Unavoidable-Royalty Not Due (code: 23).
+Total reported volume: 1.00. Aggregated rows: 3. Period covered: 2023-07-01 to 2023-10-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 1.00 volume units for disposition 'Spilled and/or Lost-Unavoidable-Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Transferred from Facility (code: 13).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Transferred from Facility'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Transferred from Facility (code: 13).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Transferred from Facility'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2023-01-01 to 2023-11-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 13. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Pipeline Drip/Retrograde Scrubber Production (code: 16).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Pipeline Drip/Retrograde Scrubber Production'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Pipeline Drip/Retrograde Scrubber Production (code: 16).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Pipeline Drip/Retrograde Scrubber Production'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Colfax. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Harding. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 8. Period covered: 2023-01-01 to 2023-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Quay. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Union. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Colfax. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Harding. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Quay. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Union. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2023-01-01 to 2023-01-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Spilled and/or Lost-Avoidable-Royalty Due (code: 8).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Spilled and/or Lost-Avoidable-Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Spilled and/or Lost-Avoidable-Royalty Due (code: 8).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Spilled and/or Lost-Avoidable-Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2023-01-01 to 2023-11-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 13. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Colfax. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 9. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2023-01-01 to 2023-02-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 9. Period covered: 2023-01-01 to 2023-10-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Spilled and/or Lost-Unavoidable-Royalty Not Due (code: 23).
+Total reported volume: 0.00. Aggregated rows: 4. Period covered: 2023-01-01 to 2023-07-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Spilled and/or Lost-Unavoidable-Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: 0.00. Aggregated rows: 13. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 0.00. Aggregated rows: 23. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 0.00. Aggregated rows: 13. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2023-01-01 to 2023-07-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Colfax. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Harding. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 8. Period covered: 2023-01-01 to 2023-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Quay. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Union. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Gas - Royalty Due (code: 33).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2023-01-01 to 2023-10-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Gas - Royalty Due (code: 33).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-06-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Gas - Royalty Due (code: 33).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2023-01-01 to 2023-02-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Gas - Royalty Due (code: 33).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2023-01-01 to 2023-03-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2023-01-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 0.00. Aggregated rows: 23. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 0.00. Aggregated rows: 20. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 0.00. Aggregated rows: 20. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 0.00. Aggregated rows: 4. Period covered: 2023-01-01 to 2023-05-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 0.00. Aggregated rows: 5. Period covered: 2023-01-01 to 2023-06-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 0.00. Aggregated rows: 8. Period covered: 2023-01-01 to 2023-10-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2023-01-01 to 2023-10-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2023-01-01 to 2023-02-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Due (code: 66).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Due (code: 66).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Due (code: 67).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Due (code: 67).
+Total reported volume: 0.00. Aggregated rows: 18. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Due (code: 68).
+Total reported volume: 0.00. Aggregated rows: 14. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Due (code: 69).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Due (code: 69).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Due (code: 69).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2023-01-01 to 2023-09-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2023-01-01 to 2023-09-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2023-02-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2023-02-01 to 2023-10-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 6. Period covered: 2023-02-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Due (code: 68).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2023-02-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Due (code: 69).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2023-02-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Due (code: 67).
+Total reported volume: 0.00. Aggregated rows: 5. Period covered: 2023-03-01 to 2023-11-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Due (code: 68).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2023-03-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Due (code: 68).
+Total reported volume: 0.00. Aggregated rows: 4. Period covered: 2023-03-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Due (code: 68).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2023-03-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Transferred to Facility-Returned to L/A (code: 12).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2023-04-01 to 2023-05-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility-Returned to L/A'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Transferred from Facility (code: 13).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2023-04-01 to 2023-05-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred from Facility'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 5. Period covered: 2023-05-01 to 2023-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Due (code: 67).
+Total reported volume: 0.00. Aggregated rows: 5. Period covered: 2023-06-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Spilled and/or Lost-Unavoidable-Royalty Not Due (code: 23).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2023-07-01 to 2023-07-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Spilled and/or Lost-Unavoidable-Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Spilled and/or Lost-Unavoidable-Royalty Not Due (code: 23).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2023-07-01 to 2023-07-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Spilled and/or Lost-Unavoidable-Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2023-07-01 to 2023-07-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Due (code: 66).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2023-07-01 to 2023-07-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Sales-Royalty Not Due, Recovered Injection-MEASURED (code: 5).
+Total reported volume: 0.00. Aggregated rows: 4. Period covered: 2023-09-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Not Due, Recovered Injection-MEASURED'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2023-10-01 to 2023-10-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Transferred from Facility (code: 13).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2023-10-01 to 2023-10-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Transferred from Facility'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Waste Oil/Slop Oil (code: 29).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2023-10-01 to 2023-10-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded 0.00 volume units for disposition 'Waste Oil/Slop Oil'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2023-11-01 to 2023-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: -3.00. Aggregated rows: 6. Period covered: 2023-02-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded -3.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: -4.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded -4.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: -11.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded -11.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: -12.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded -12.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: -25.00. Aggregated rows: 23. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded -25.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: -29.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded -29.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Transferred from Facility (code: 13).
+Total reported volume: -67.00. Aggregated rows: 1. Period covered: 2023-10-01 to 2023-10-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded -67.00 volume units for disposition 'Transferred from Facility'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: -151.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded -151.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: -438.00. Aggregated rows: 2. Period covered: 2023-01-01 to 2023-09-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded -438.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Transferred from Facility (code: 13).
+Total reported volume: -2,323.00. Aggregated rows: 2. Period covered: 2023-04-01 to 2023-05-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded -2,323.00 volume units for disposition 'Transferred from Facility'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: -18,308.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded -18,308.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: -61,077.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded -61,077.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: -307,844.00. Aggregated rows: 12. Period covered: 2023-01-01 to 2023-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded -307,844.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Transferred from Facility (code: 13).
+Total reported volume: -345,955.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded -345,955.00 volume units for disposition 'Transferred from Facility'.
+
+State: NM. Year: 2023. Commodity: Oil (bbl). Disposition: Transferred from Facility (code: 13).
+Total reported volume: -560,106.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Oil (bbl) recorded -560,106.00 volume units for disposition 'Transferred from Facility'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: -95,214,890.00. Aggregated rows: 24. Period covered: 2023-01-01 to 2023-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded -95,214,890.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: NM. Year: 2023. Commodity: Gas (Mcf). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: -227,742,482.00. Aggregated rows: 13. Period covered: 2023-01-01 to 2023-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2023, Gas (Mcf) recorded -227,742,482.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+

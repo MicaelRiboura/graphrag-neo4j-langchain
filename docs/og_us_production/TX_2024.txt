@@ -1,0 +1,1194 @@
+US Oil & Gas Production and Disposition - TX - 2024
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 26,044,802.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Shelby. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 26,044,802.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 4,002,927.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Tarrant. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 4,002,927.00 volume units for disposition 'Transferred to Facility'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 2,810,958.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: San Augustine. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 2,810,958.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 1,806,166.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Tarrant. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 1,806,166.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 1,220,086.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Starr. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 1,220,086.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 1,066,083.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Denton. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 1,066,083.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 802,687.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wise. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 802,687.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 370,222.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Johnson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 370,222.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 335,717.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 335,717.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 228,907.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 228,907.00 volume units for disposition 'Transferred to Facility'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 177,946.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Houston. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 177,946.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 132,006.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Sabine. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 132,006.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 126,701.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Montgomery. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 126,701.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 109,907.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Denton. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 109,907.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 106,015.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wise. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 106,015.00 volume units for disposition 'Transferred to Facility'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 103,188.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 103,188.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 96,437.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Zapata. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 96,437.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 73,408.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Starr. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 73,408.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 60,410.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Tarrant. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 60,410.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 55,236.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Nacogdoches. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 55,236.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 49,004.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Live Oak. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 49,004.00 volume units for disposition 'Differences/Adjustments'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 35,446.00. Aggregated rows: 10. Period covered: 2024-01-01 to 2024-12-01. County reference: Walker. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 35,446.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 28,168.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Hill. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 28,168.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 27,844.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Freestone. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 27,844.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 24,955.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Houston. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 24,955.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 24,003.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wise. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 24,003.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 23,628.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-11-01. County reference: Washington. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 23,628.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 22,023.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-11-01. County reference: Live Oak. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 22,023.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 21,189.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 21,189.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 19,325.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Starr. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 19,325.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 18,518.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Freestone. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 18,518.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 12,708.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Harrison. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 12,708.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 10,489.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-11-01. County reference: Live Oak. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 10,489.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 10,452.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Zapata. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 10,452.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 9,240.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Hidalgo. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 9,240.00 volume units for disposition 'Transferred to Facility'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 8,760.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: San Jacinto. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 8,760.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 8,294.00. Aggregated rows: 10. Period covered: 2024-01-01 to 2024-12-01. County reference: Montgomery. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 8,294.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 8,294.00. Aggregated rows: 10. Period covered: 2024-01-01 to 2024-12-01. County reference: Walker. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 8,294.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 7,710.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Montague. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 7,710.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 6,516.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wise. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 6,516.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 6,453.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Burleson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 6,453.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 5,935.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Hemphill. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 5,935.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 5,323.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Shelby. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 5,323.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 4,968.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Live Oak. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 4,968.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Pipeline Drip/Retrograde Scrubber Production (code: 16).
+Total reported volume: 4,713.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 4,713.00 volume units for disposition 'Pipeline Drip/Retrograde Scrubber Production'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 4,476.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Galveston. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 4,476.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 4,141.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Johnson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 4,141.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 2,893.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Grayson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 2,893.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 2,821.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 2,821.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 2,761.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 2,761.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 2,318.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Grayson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 2,318.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 1,466.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wilson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 1,466.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 1,304.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-11-01. County reference: Burleson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 1,304.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 1,279.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Lee. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 1,279.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 1,279.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wilson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 1,279.00 volume units for disposition 'Transferred to Facility'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 1,131.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Fayette. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 1,131.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 1,130.00. Aggregated rows: 3. Period covered: 2024-09-01 to 2024-11-01. County reference: Jackson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 1,130.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 1,121.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Zapata. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 1,121.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 1,005.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 1,005.00 volume units for disposition 'Transferred to Facility'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 990.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Grayson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 990.00 volume units for disposition 'Transferred to Facility'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 933.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 933.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 846.00. Aggregated rows: 10. Period covered: 2024-01-01 to 2024-11-01. County reference: Galveston. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 846.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 714.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wheeler. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 714.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 689.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Shelby. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 689.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 621.00. Aggregated rows: 3. Period covered: 2024-09-01 to 2024-11-01. County reference: Jackson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 621.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 603.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Gray. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 603.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 595.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Denton. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 595.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 504.00. Aggregated rows: 11. Period covered: 2024-02-01 to 2024-12-01. County reference: Hill. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 504.00 volume units for disposition 'Differences/Adjustments'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 379.00. Aggregated rows: 10. Period covered: 2024-01-01 to 2024-12-01. County reference: Montgomery. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 379.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 314.00. Aggregated rows: 8. Period covered: 2024-01-01 to 2024-08-01. County reference: Fayette. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 314.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 294.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Hidalgo. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 294.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 267.00. Aggregated rows: 10. Period covered: 2024-01-01 to 2024-12-01. County reference: Walker. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 267.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 249.00. Aggregated rows: 5. Period covered: 2024-01-01 to 2024-12-01. County reference: Fayette. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 249.00 volume units for disposition 'Transferred to Facility'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Spilled and/or Lost-Avoidable-Royalty Due (code: 8).
+Total reported volume: 228.00. Aggregated rows: 1. Period covered: 2024-06-01 to 2024-06-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 228.00 volume units for disposition 'Spilled and/or Lost-Avoidable-Royalty Due'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 154.00. Aggregated rows: 6. Period covered: 2024-05-01 to 2024-12-01. County reference: Montague. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 154.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Due (code: 66).
+Total reported volume: 137.00. Aggregated rows: 3. Period covered: 2024-01-01 to 2024-03-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 137.00 volume units for disposition 'Flared Oil Well Gas - Royalty Due'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 118.00. Aggregated rows: 1. Period covered: 2024-12-01 to 2024-12-01. County reference: Galveston. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 118.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 84.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Hidalgo. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 84.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 68.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wilson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 68.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 57.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 57.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 55.00. Aggregated rows: 9. Period covered: 2024-04-01 to 2024-12-01. County reference: Wilson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 55.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 29.00. Aggregated rows: 6. Period covered: 2024-03-01 to 2024-10-01. County reference: Hemphill. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 29.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Due (code: 66).
+Total reported volume: 24.00. Aggregated rows: 3. Period covered: 2024-01-01 to 2024-03-01. County reference: Wilson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 24.00 volume units for disposition 'Flared Oil Well Gas - Royalty Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 20.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Lee. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 20.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 15.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 15.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Pipeline Drip/Retrograde Scrubber Production (code: 16).
+Total reported volume: 14.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wilson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 14.00 volume units for disposition 'Pipeline Drip/Retrograde Scrubber Production'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 9.00. Aggregated rows: 9. Period covered: 2024-04-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 9.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 6.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-12-01. County reference: Wheeler. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 6.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 3.00. Aggregated rows: 5. Period covered: 2024-01-01 to 2024-12-01. County reference: Hidalgo. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 3.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Due (code: 68).
+Total reported volume: 3.00. Aggregated rows: 3. Period covered: 2024-01-01 to 2024-03-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 3.00 volume units for disposition 'Vented Oil Well Gas - Royalty Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 3.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-12-01. County reference: Freestone. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 3.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 3.00. Aggregated rows: 7. Period covered: 2024-01-01 to 2024-11-01. County reference: Montague. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 3.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Waste Oil/Slop Oil (code: 29).
+Total reported volume: 3.00. Aggregated rows: 3. Period covered: 2024-01-01 to 2024-07-01. County reference: Burleson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 3.00 volume units for disposition 'Waste Oil/Slop Oil'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 3.00. Aggregated rows: 5. Period covered: 2024-02-01 to 2024-10-01. County reference: Nacogdoches. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 3.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 3.00. Aggregated rows: 5. Period covered: 2024-03-01 to 2024-12-01. County reference: Washington. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 3.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 2.00. Aggregated rows: 1. Period covered: 2024-12-01 to 2024-12-01. County reference: Galveston. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 2.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-12-01. County reference: Freestone. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 0.00. Aggregated rows: 8. Period covered: 2024-01-01 to 2024-11-01. County reference: Lee. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-11-01. County reference: Burleson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Fayette. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Galveston. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Gray. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Grayson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Hidalgo. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Houston. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Lee. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Live Oak. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2024-01-01 to 2024-11-01. County reference: Montague. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2024-01-01 to 2024-12-01. County reference: Montgomery. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: San Jacinto. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Shelby. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2024-01-01 to 2024-12-01. County reference: Walker. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-12-01. County reference: Wheeler. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wilson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wise. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Transferred from Facility (code: 13).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-12-01. County reference: Freestone. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Transferred from Facility'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Transferred from Facility (code: 13).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Transferred from Facility'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Transferred from Facility (code: 13).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wilson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Transferred from Facility'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Grayson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Pipeline Drip/Retrograde Scrubber Production (code: 16).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Pipeline Drip/Retrograde Scrubber Production'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Pipeline Drip/Retrograde Scrubber Production (code: 16).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wilson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Pipeline Drip/Retrograde Scrubber Production'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Denton. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Freestone. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2024-01-01 to 2024-12-01. County reference: Galveston. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Grayson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Hill. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Houston. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Johnson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-12-01. County reference: Nacogdoches. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: San Augustine. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Shelby. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Tarrant. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wilson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wise. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2024-01-01 to 2024-06-01. County reference: Zapata. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-11-01. County reference: Burleson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Denton. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Galveston. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Gray. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Grayson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2024-01-01 to 2024-10-01. County reference: Hemphill. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Hidalgo. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Johnson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Lee. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-11-01. County reference: Live Oak. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Montague. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Montgomery. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Sabine. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Starr. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Tarrant. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2024-01-01 to 2024-12-01. County reference: Walker. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-12-01. County reference: Washington. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wise. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Zapata. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Waste Oil/Slop Oil (code: 29).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2024-01-01 to 2024-07-01. County reference: Burleson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Waste Oil/Slop Oil'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2024-01-01 to 2024-10-01. County reference: Freestone. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2024-01-01 to 2024-04-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Burleson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Denton. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 8. Period covered: 2024-01-01 to 2024-08-01. County reference: Fayette. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Freestone. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Grayson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Harrison. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Hemphill. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Hill. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Houston. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Johnson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Lee. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-11-01. County reference: Live Oak. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Montague. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Montgomery. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Nacogdoches. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Sabine. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: San Augustine. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Shelby. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Starr. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Tarrant. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2024-01-01 to 2024-12-01. County reference: Walker. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-11-01. County reference: Washington. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wheeler. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wise. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Zapata. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 0.00. Aggregated rows: 8. Period covered: 2024-01-01 to 2024-11-01. County reference: Lee. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 5. Period covered: 2024-01-01 to 2024-12-01. County reference: Fayette. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Grayson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Hidalgo. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Tarrant. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wilson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wise. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Grayson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Denton. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Freestone. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Denton. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Freestone. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2024-01-01 to 2024-12-01. County reference: Galveston. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Grayson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Hill. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Houston. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Johnson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-12-01. County reference: Nacogdoches. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: San Augustine. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Shelby. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Tarrant. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wilson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wise. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2024-01-01 to 2024-06-01. County reference: Zapata. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Denton. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2024-01-01 to 2024-11-01. County reference: Galveston. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Hidalgo. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Johnson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-11-01. County reference: Live Oak. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2024-01-01 to 2024-12-01. County reference: Montgomery. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Shelby. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Starr. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Tarrant. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2024-01-01 to 2024-12-01. County reference: Walker. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wilson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wise. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Zapata. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 0.00. Aggregated rows: 5. Period covered: 2024-01-01 to 2024-12-01. County reference: Hidalgo. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Starr. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Zapata. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Denton. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Freestone. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-11-01. County reference: Burleson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Denton. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Galveston. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Gray. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Grayson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2024-01-01 to 2024-10-01. County reference: Hemphill. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Hidalgo. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Johnson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Lee. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-11-01. County reference: Live Oak. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Montague. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Montgomery. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Sabine. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Starr. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Tarrant. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2024-01-01 to 2024-12-01. County reference: Walker. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-12-01. County reference: Washington. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wise. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Zapata. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2024-01-01 to 2024-10-01. County reference: Freestone. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Live Oak. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2024-01-01 to 2024-04-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Due (code: 66).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2024-01-01 to 2024-03-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Due (code: 66).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2024-01-01 to 2024-03-01. County reference: Wilson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Due (code: 68).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2024-01-01 to 2024-03-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Due'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 5. Period covered: 2024-02-01 to 2024-10-01. County reference: Nacogdoches. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2024-02-01 to 2024-06-01. County reference: San Augustine. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 4. Period covered: 2024-02-01 to 2024-11-01. County reference: Zapata. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2024-02-01 to 2024-06-01. County reference: San Augustine. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-02-01 to 2024-12-01. County reference: Denton. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2024-02-01 to 2024-12-01. County reference: Hill. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 4. Period covered: 2024-02-01 to 2024-11-01. County reference: Zapata. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 6. Period covered: 2024-03-01 to 2024-10-01. County reference: Hemphill. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 5. Period covered: 2024-03-01 to 2024-12-01. County reference: Washington. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 4. Period covered: 2024-03-01 to 2024-09-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 4. Period covered: 2024-03-01 to 2024-09-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 9. Period covered: 2024-04-01 to 2024-12-01. County reference: Wilson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 0.00. Aggregated rows: 9. Period covered: 2024-04-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Transferred from Facility (code: 13).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2024-05-01 to 2024-12-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Transferred from Facility'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Pipeline Drip/Retrograde Scrubber Production (code: 16).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2024-05-01 to 2024-12-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Pipeline Drip/Retrograde Scrubber Production'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2024-05-01 to 2024-12-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Transferred from Facility (code: 13).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2024-05-01 to 2024-12-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred from Facility'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Pipeline Drip/Retrograde Scrubber Production (code: 16).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2024-05-01 to 2024-12-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Pipeline Drip/Retrograde Scrubber Production'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 6. Period covered: 2024-05-01 to 2024-12-01. County reference: Montague. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2024-05-01 to 2024-12-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Spilled and/or Lost-Avoidable-Royalty Due (code: 8).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2024-06-01 to 2024-06-01. County reference: Mcmullen. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Spilled and/or Lost-Avoidable-Royalty Due'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2024-07-01 to 2024-07-01. County reference: Montgomery. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2024-07-01 to 2024-07-01. County reference: Montgomery. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2024-09-01 to 2024-11-01. County reference: Jackson. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2024-09-01 to 2024-11-01. County reference: Jackson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2024-10-01 to 2024-12-01. County reference: Houston. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2024-10-01 to 2024-12-01. County reference: Houston. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Transferred from Facility (code: 13).
+Total reported volume: -3.00. Aggregated rows: 11. Period covered: 2024-01-01 to 2024-12-01. County reference: Freestone. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded -3.00 volume units for disposition 'Transferred from Facility'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Transferred from Facility (code: 13).
+Total reported volume: -14.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Wilson. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded -14.00 volume units for disposition 'Transferred from Facility'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: -1,601.00. Aggregated rows: 11. Period covered: 2024-02-01 to 2024-12-01. County reference: Denton. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded -1,601.00 volume units for disposition 'Differences/Adjustments'.
+
+State: TX. Year: 2024. Commodity: Oil (bbl). Disposition: Transferred from Facility (code: 13).
+Total reported volume: -4,713.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Oil (bbl) recorded -4,713.00 volume units for disposition 'Transferred from Facility'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: -27,844.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Freestone. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded -27,844.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: -109,907.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Denton. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded -109,907.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: TX. Year: 2024. Commodity: Gas (Mcf). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: -335,717.00. Aggregated rows: 12. Period covered: 2024-01-01 to 2024-12-01. County reference: Karnes. Offshore region: Onshore.
+In TX during 2024, Gas (Mcf) recorded -335,717.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+

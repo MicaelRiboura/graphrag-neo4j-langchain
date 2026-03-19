@@ -15,12 +15,14 @@ from graphrag.config import OPENAI_API_KEY, LLM_MODEL
 def router_node(state: GraphRAGState) -> dict:
     """Classify question as local or global."""
     decision = route_chain.invoke({"question": state["question"]})
+    print(f"Decision: {decision.search_type}")
     return {"search_type": decision.search_type}
 
 
 def decompose_node(state: GraphRAGState) -> dict:
     """Break question into subqueries."""
     result = decompose_chain.invoke({"question": state["question"]})
+    print(f"Subqueries: {result.subqueries}")
     return {"subqueries": result.subqueries}
 
 

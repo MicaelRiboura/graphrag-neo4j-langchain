@@ -1,0 +1,762 @@
+US Oil & Gas Production and Disposition - LA - 2020
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 12,649,403.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bossier. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 12,649,403.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 6,149,489.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: De Soto. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 6,149,489.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Not Due-MEASURED (code: 9).
+Total reported volume: 1,362,419.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Cameron. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 1,362,419.00 volume units for disposition 'Sales-Royalty Not Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 1,095,620.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 1,095,620.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 443,544.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bossier. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 443,544.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 281,455.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Cameron. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 281,455.00 volume units for disposition 'Transferred to Facility'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 261,837.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Plaquemines. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 261,837.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 187,121.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Webster. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 187,121.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 142,055.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Plaquemines. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 142,055.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 102,552.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Sabine. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 102,552.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 87,679.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Red River. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 87,679.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 83,363.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Plaquemines. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 83,363.00 volume units for disposition 'Transferred to Facility'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 71,548.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Plaquemines. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 71,548.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 69,229.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Claiborne. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 69,229.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 60,784.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Cameron. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 60,784.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 53,764.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bienville. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 53,764.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 50,520.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bossier. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 50,520.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 31,016.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Plaquemines. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 31,016.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 22,122.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Cameron. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 22,122.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 21,745.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Cameron. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 21,745.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 19,073.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: S Pass. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 19,073.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 5,529.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Webster. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 5,529.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 5,504.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Plaquemines. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 5,504.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 4,788.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 4,788.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 4,002.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: S Pass. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 4,002.00 volume units for disposition 'Transferred to Facility'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 3,866.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: S Pass. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 3,866.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 3,833.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Claiborne. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 3,833.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 3,566.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 3,566.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 3,495.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: De Soto. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 3,495.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 3,406.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Webster. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 3,406.00 volume units for disposition 'Transferred to Facility'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 3,275.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Rapides. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 3,275.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 2,371.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: S Pass. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 2,371.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 1,795.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Lincoln. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 1,795.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 1,770.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: East Baton Rouge. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 1,770.00 volume units for disposition 'Transferred to Facility'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 1,127.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Morehouse. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 1,127.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 824.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: St. Martin. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 824.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 779.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bossier. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 779.00 volume units for disposition 'Transferred to Facility'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 731.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: St. Martin. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 731.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 490.00. Aggregated rows: 8. Period covered: 2020-01-01 to 2020-08-01. County reference: Vermilion. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 490.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 368.00. Aggregated rows: 2. Period covered: 2020-05-01 to 2020-06-01. County reference: Webster. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 368.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 360.00. Aggregated rows: 10. Period covered: 2020-01-01 to 2020-10-01. County reference: Union. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 360.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 359.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Ouachita. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 359.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 320.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: East Baton Rouge. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 320.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 297.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: St. Martin. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 297.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 297.00. Aggregated rows: 8. Period covered: 2020-01-01 to 2020-10-01. County reference: Vernon. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 297.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 255.00. Aggregated rows: 11. Period covered: 2020-01-01 to 2020-11-01. County reference: East Baton Rouge. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 255.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 218.00. Aggregated rows: 5. Period covered: 2020-06-01 to 2020-12-01. County reference: Claiborne. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 218.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 186.00. Aggregated rows: 11. Period covered: 2020-01-01 to 2020-11-01. County reference: Vernon. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 186.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 121.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 121.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 81.00. Aggregated rows: 2. Period covered: 2020-09-01 to 2020-10-01. County reference: S Pass. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 81.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 57.00. Aggregated rows: 3. Period covered: 2020-01-01 to 2020-12-01. County reference: Concordia. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 57.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 55.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: De Soto. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 55.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 21.00. Aggregated rows: 4. Period covered: 2020-01-01 to 2020-04-01. County reference: De Soto. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 21.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 21.00. Aggregated rows: 4. Period covered: 2020-01-01 to 2020-04-01. County reference: Red River. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 21.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 20.00. Aggregated rows: 11. Period covered: 2020-01-01 to 2020-12-01. County reference: Lincoln. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 20.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Load Oil (code: 3).
+Total reported volume: 18.00. Aggregated rows: 1. Period covered: 2020-02-01 to 2020-02-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 18.00 volume units for disposition 'Load Oil'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 10.00. Aggregated rows: 10. Period covered: 2020-01-01 to 2020-11-01. County reference: St. Martin. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 10.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 4.00. Aggregated rows: 7. Period covered: 2020-02-01 to 2020-10-01. County reference: Bienville. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 4.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bossier. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Cameron. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Claiborne. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2020-01-01 to 2020-12-01. County reference: Concordia. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 4. Period covered: 2020-01-01 to 2020-04-01. County reference: De Soto. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: East Baton Rouge. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2020-01-01 to 2020-12-01. County reference: Lincoln. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Plaquemines. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Rapides. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 4. Period covered: 2020-01-01 to 2020-04-01. County reference: Red River. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: S Pass. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: St. Martin. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 8. Period covered: 2020-01-01 to 2020-08-01. County reference: Vermilion. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2020-01-01 to 2020-11-01. County reference: Vernon. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: W Delta. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Webster. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: W Delta. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2020-01-01 to 2020-08-01. County reference: Vermilion. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bienville. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bossier. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Claiborne. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: De Soto. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Rapides. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Red River. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 9. Period covered: 2020-01-01 to 2020-10-01. County reference: Vernon. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Webster. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bienville. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: W Delta. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bienville. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bossier. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Cameron. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Claiborne. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: De Soto. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: East Baton Rouge. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Plaquemines. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: S Pass. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Sabine. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: St. Martin. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: W Delta. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Webster. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bienville. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bossier. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Claiborne. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: De Soto. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Lincoln. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Morehouse. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Ouachita. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Plaquemines. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Red River. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Sabine. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: St. Martin. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2020-01-01 to 2020-10-01. County reference: Union. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 8. Period covered: 2020-01-01 to 2020-10-01. County reference: Vernon. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Webster. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Not Due-MEASURED (code: 9).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Cameron. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Not Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: W Delta. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bossier. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Cameron. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: East Baton Rouge. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Plaquemines. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: S Pass. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: W Delta. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Webster. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2020-01-01 to 2020-08-01. County reference: Vermilion. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bienville. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bossier. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Claiborne. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: De Soto. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Rapides. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Red River. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 9. Period covered: 2020-01-01 to 2020-10-01. County reference: Vernon. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Webster. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bienville. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bossier. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Cameron. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: De Soto. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2020-01-01 to 2020-11-01. County reference: East Baton Rouge. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Plaquemines. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: S Pass. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: St. Martin. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: W Delta. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Plaquemines. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: S Pass. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2020-01-01 to 2020-11-01. County reference: St. Martin. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Plaquemines. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Plaquemines. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bienville. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Bossier. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Cameron. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Claiborne. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: De Soto. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: East Baton Rouge. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Plaquemines. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: S Pass. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Sabine. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: St. Martin. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: W Delta. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Webster. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Cameron. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: De Soto. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Load Oil (code: 3).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2020-02-01 to 2020-02-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Load Oil'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2020-02-01 to 2020-10-01. County reference: Bienville. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2020-02-01 to 2020-12-01. County reference: Bossier. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2020-02-01 to 2020-06-01. County reference: Bossier. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2020-02-01 to 2020-12-01. County reference: Bossier. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2020-02-01 to 2020-06-01. County reference: Bossier. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2020-03-01 to 2020-09-01. County reference: Claiborne. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2020-03-01 to 2020-09-01. County reference: Claiborne. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2020-04-01 to 2020-06-01. County reference: Bienville. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2020-04-01 to 2020-06-01. County reference: Bienville. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2020-05-01 to 2020-06-01. County reference: Webster. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 0.00. Aggregated rows: 5. Period covered: 2020-06-01 to 2020-12-01. County reference: Claiborne. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2020-07-01 to 2020-07-01. County reference: East Baton Rouge. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2020-07-01 to 2020-07-01. County reference: East Baton Rouge. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2020-09-01 to 2020-10-01. County reference: W Delta. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2020-09-01 to 2020-12-01. County reference: W Delta. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2020-09-01 to 2020-10-01. County reference: S Pass. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2020-09-01 to 2020-10-01. County reference: W Delta. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: LA. Year: 2020. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2020-09-01 to 2020-12-01. County reference: W Delta. Offshore region: Onshore.
+In LA during 2020, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: -133.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Caddo. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded -133.00 volume units for disposition 'Differences/Adjustments'.
+
+State: LA. Year: 2020. Commodity: Gas (Mcf). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: -71,548.00. Aggregated rows: 12. Period covered: 2020-01-01 to 2020-12-01. County reference: Plaquemines. Offshore region: Onshore.
+In LA during 2020, Gas (Mcf) recorded -71,548.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+

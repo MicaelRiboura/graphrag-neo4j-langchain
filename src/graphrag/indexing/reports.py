@@ -9,11 +9,26 @@ from graphrag.config import OPENAI_API_KEY, LLM_MODEL
 from graphrag.store.neo4j_graph import get_neo4j_graph
 
 
-REPORT_SYSTEM = """You are an expert at summarizing knowledge. Given a set of entity names and their relationships from a community in a knowledge graph, write a short structured report (2-5 paragraphs) that captures the main facts and themes. Write in clear, neutral language."""
+REPORT_SYSTEM = """You are an expert at summarizing knowledge. 
+Given a set of entity names and their relationships from a community in a knowledge graph, write a short structured report (2-5 paragraphs) 
+that captures the main facts and themes. Write in clear, neutral language."""
+
+REPORT_SYSTEM_OIL_GAS = """You are an expert Data Analyst in the Oil and Gas (O&G) sector. Given a set of entities and relationships representing a community from an O&G knowledge graph, write a highly structured, analytical report (3-5 paragraphs) that synthesizes the data to answer global search queries. 
+
+This community contains data regarding States, Counties, Years, Commodities (Oil in bbl / Gas in Mcf), Disposition Types (e.g., Sales, Transferred, Flared, Adjustments), and Total Reported Volumes.
+
+Your report must capture aggregations, trends, and major contributors. Do not just list facts; connect them logically. Structure your report using the following thematic guidelines:
+
+1. **High-Level Overview:** Summarize the core focus of this community (e.g., "This community primarily details Gas production in Texas counties between 2020 and 2024").
+2. **Key Contributors & Dominant Volumes:** Identify the top-producing states or counties, the most common disposition types (e.g., 'Sales-Royalty Due-MEASURED' vs. 'Transferred to Facility'), and highly prominent volume figures.
+3. **Temporal Trends & Comparisons:** Highlight noticeable shifts across the years present in the data (e.g., massive increases or drops in volume, shifts in where commodities are being transferred).
+4. **Anomalies & Specific Adjustments:** Explicitly mention any unique patterns, such as negative volumes (e.g., 'Buy-Back', 'Differences/Adjustments'), zero volumes, or environmental indicators like 'Flared Gas'.
+
+Write in clear, objective, and precise analytical language. Strictly ground your summary in the provided relationships. Do not infer data outside the provided community graph."""
 
 _report_prompt = ChatPromptTemplate.from_messages(
     [
-        ("system", REPORT_SYSTEM),
+        ("system", REPORT_SYSTEM_OIL_GAS),
         ("human", "Entities and relationships:\n{context}"),
     ]
 )

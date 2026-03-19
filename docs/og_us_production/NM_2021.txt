@@ -1,0 +1,1058 @@
+US Oil & Gas Production and Disposition - NM - 2021
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 386,350,533.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 386,350,533.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 225,498,797.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 225,498,797.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 218,769,599.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 218,769,599.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 199,437,457.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 199,437,457.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 193,943,145.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 193,943,145.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 162,372,372.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 162,372,372.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 147,818,145.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 147,818,145.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 117,016,702.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 117,016,702.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 93,630,630.00. Aggregated rows: 22. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 93,630,630.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 16,844,942.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 16,844,942.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 14,279,440.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 14,279,440.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 13,551,230.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 13,551,230.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 8,433,156.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 8,433,156.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 6,438,708.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 6,438,708.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 5,548,956.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 5,548,956.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 4,833,891.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 4,833,891.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 4,750,771.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 4,750,771.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 4,324,211.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 4,324,211.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 2,877,132.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 2,877,132.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 2,743,469.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 2,743,469.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 2,590,740.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 2,590,740.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Gas - Royalty Due (code: 33).
+Total reported volume: 2,152,549.00. Aggregated rows: 23. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 2,152,549.00 volume units for disposition 'Flared Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 1,644,991.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 1,644,991.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 1,437,139.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 1,437,139.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 1,273,849.00. Aggregated rows: 21. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 1,273,849.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Gas - Royalty Due (code: 33).
+Total reported volume: 997,341.00. Aggregated rows: 22. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 997,341.00 volume units for disposition 'Flared Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Due (code: 66).
+Total reported volume: 968,887.00. Aggregated rows: 21. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 968,887.00 volume units for disposition 'Flared Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 791,224.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 791,224.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 769,431.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 769,431.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 748,952.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 748,952.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 697,916.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 697,916.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 652,762.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 652,762.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 640,375.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 640,375.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Due (code: 66).
+Total reported volume: 494,173.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 494,173.00 volume units for disposition 'Flared Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 466,371.00. Aggregated rows: 23. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 466,371.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 401,829.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 401,829.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Pipeline Drip/Retrograde Scrubber Production (code: 16).
+Total reported volume: 355,904.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 355,904.00 volume units for disposition 'Pipeline Drip/Retrograde Scrubber Production'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Pipeline Drip/Retrograde Scrubber Production (code: 16).
+Total reported volume: 291,476.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 291,476.00 volume units for disposition 'Pipeline Drip/Retrograde Scrubber Production'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Due (code: 67).
+Total reported volume: 225,466.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 225,466.00 volume units for disposition 'Flared Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 213,908.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Harding. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 213,908.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 161,975.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 161,975.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 128,179.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Colfax. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 128,179.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 124,826.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 124,826.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Spilled and/or Lost-Avoidable-Royalty Due (code: 8).
+Total reported volume: 118,985.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 118,985.00 volume units for disposition 'Spilled and/or Lost-Avoidable-Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 81,979.00. Aggregated rows: 21. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 81,979.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 65,099.00. Aggregated rows: 4. Period covered: 2021-06-01 to 2021-11-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 65,099.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 58,794.00. Aggregated rows: 21. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 58,794.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 57,244.00. Aggregated rows: 14. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 57,244.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Spilled and/or Lost-Avoidable-Royalty Due (code: 8).
+Total reported volume: 55,135.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 55,135.00 volume units for disposition 'Spilled and/or Lost-Avoidable-Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 55,077.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 55,077.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 52,437.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 52,437.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 51,768.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 51,768.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 38,304.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 38,304.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 23,798.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 23,798.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Condensate Sales-Royalty Due-MEASURED (code: 7).
+Total reported volume: 14,300.00. Aggregated rows: 1. Period covered: 2021-08-01 to 2021-08-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 14,300.00 volume units for disposition 'Condensate Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 13,480.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 13,480.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Due (code: 68).
+Total reported volume: 13,085.00. Aggregated rows: 4. Period covered: 2021-09-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 13,085.00 volume units for disposition 'Vented Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 12,432.00. Aggregated rows: 8. Period covered: 2021-02-01 to 2021-09-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 12,432.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 12,079.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 12,079.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 11,718.00. Aggregated rows: 3. Period covered: 2021-01-01 to 2021-03-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 11,718.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 10,637.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 10,637.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 10,621.00. Aggregated rows: 22. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 10,621.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 10,308.00. Aggregated rows: 9. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 10,308.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 9,974.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 9,974.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 9,912.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Quay. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 9,912.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 9,912.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Union. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 9,912.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 9,761.00. Aggregated rows: 11. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 9,761.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Gas - Royalty Due (code: 33).
+Total reported volume: 9,167.00. Aggregated rows: 7. Period covered: 2021-01-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 9,167.00 volume units for disposition 'Flared Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 8,545.00. Aggregated rows: 6. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 8,545.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 7,128.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 7,128.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 3,274.00. Aggregated rows: 9. Period covered: 2021-01-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 3,274.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 2,315.00. Aggregated rows: 3. Period covered: 2021-09-01 to 2021-11-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 2,315.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Gas Well Gas - Royalty Due (code: 67).
+Total reported volume: 2,273.00. Aggregated rows: 4. Period covered: 2021-09-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 2,273.00 volume units for disposition 'Flared Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 1,970.00. Aggregated rows: 4. Period covered: 2021-09-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 1,970.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 1,851.00. Aggregated rows: 5. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 1,851.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 1,850.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 1,850.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 1,622.00. Aggregated rows: 1. Period covered: 2021-11-01 to 2021-11-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 1,622.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 1,317.00. Aggregated rows: 3. Period covered: 2021-05-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 1,317.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 1,300.00. Aggregated rows: 5. Period covered: 2021-06-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 1,300.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Waste Oil/Slop Oil (code: 29).
+Total reported volume: 1,251.00. Aggregated rows: 4. Period covered: 2021-05-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 1,251.00 volume units for disposition 'Waste Oil/Slop Oil'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Flared Gas - Royalty Due (code: 33).
+Total reported volume: 1,158.00. Aggregated rows: 6. Period covered: 2021-01-01 to 2021-10-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 1,158.00 volume units for disposition 'Flared Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 1,009.00. Aggregated rows: 3. Period covered: 2021-07-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 1,009.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 475.00. Aggregated rows: 11. Period covered: 2021-02-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 475.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Waste Oil/Slop Oil (code: 29).
+Total reported volume: 380.00. Aggregated rows: 2. Period covered: 2021-09-01 to 2021-11-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 380.00 volume units for disposition 'Waste Oil/Slop Oil'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 349.00. Aggregated rows: 4. Period covered: 2021-09-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 349.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 301.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 301.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 273.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 273.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Spilled and/or Lost-Unavoidable-Royalty Not Due (code: 23).
+Total reported volume: 272.00. Aggregated rows: 2. Period covered: 2021-05-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 272.00 volume units for disposition 'Spilled and/or Lost-Unavoidable-Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Spilled and/or Lost-Unavoidable-Royalty Not Due (code: 23).
+Total reported volume: 228.00. Aggregated rows: 2. Period covered: 2021-05-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 228.00 volume units for disposition 'Spilled and/or Lost-Unavoidable-Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 183.00. Aggregated rows: 3. Period covered: 2021-10-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 183.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Due (code: 69).
+Total reported volume: 168.00. Aggregated rows: 3. Period covered: 2021-10-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 168.00 volume units for disposition 'Vented Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Gas Well Gas - Royalty Due (code: 69).
+Total reported volume: 102.00. Aggregated rows: 3. Period covered: 2021-10-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 102.00 volume units for disposition 'Vented Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 100.00. Aggregated rows: 3. Period covered: 2021-10-01 to 2021-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 100.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 56.00. Aggregated rows: 7. Period covered: 2021-06-01 to 2021-12-01. County reference: Colfax. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 56.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 44.00. Aggregated rows: 1. Period covered: 2021-11-01 to 2021-11-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 44.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 29.00. Aggregated rows: 2. Period covered: 2021-06-01 to 2021-07-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 29.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 19.00. Aggregated rows: 2. Period covered: 2021-11-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 19.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 7.00. Aggregated rows: 7. Period covered: 2021-01-01 to 2021-11-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 7.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 6.00. Aggregated rows: 3. Period covered: 2021-10-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 6.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Spilled and/or Lost-Avoidable-Royalty Due (code: 8).
+Total reported volume: 3.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 3.00 volume units for disposition 'Spilled and/or Lost-Avoidable-Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Spilled and/or Lost-Avoidable-Royalty Due (code: 8).
+Total reported volume: 2.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 2.00 volume units for disposition 'Spilled and/or Lost-Avoidable-Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 0.00. Aggregated rows: 22. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Produced into Inventory Prior to Sales (code: 10).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Produced into Inventory Prior to Sales'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Transferred from Facility (code: 13).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Transferred from Facility'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Transferred from Facility (code: 13).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Transferred from Facility'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Pipeline Drip/Retrograde Scrubber Production (code: 16).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Pipeline Drip/Retrograde Scrubber Production'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Pipeline Drip/Retrograde Scrubber Production (code: 16).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Pipeline Drip/Retrograde Scrubber Production'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 23. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Colfax. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Colfax. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Harding. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Quay. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Royalty Due-MEASURED (code: 1).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Union. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Transferred to Facility (code: 11).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Transferred to Facility'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Injected on L/A (code: 14).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Injected on L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 0.00. Aggregated rows: 22. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Sales-Buy-Back-Measured-Royalty Not Due (code: 15).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Sales-Buy-Back-Measured-Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 23. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Injected/Transferred Off-L/A (code: 17).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Injected/Transferred Off-L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 21. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 9. Period covered: 2021-01-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: 0.00. Aggregated rows: 22. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 0.00. Aggregated rows: 23. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Colfax. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Mckinley. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Gas - Royalty Due (code: 33).
+Total reported volume: 0.00. Aggregated rows: 6. Period covered: 2021-01-01 to 2021-10-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Gas - Royalty Due (code: 33).
+Total reported volume: 0.00. Aggregated rows: 22. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Gas - Royalty Due (code: 33).
+Total reported volume: 0.00. Aggregated rows: 23. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Gas - Royalty Due (code: 33).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2021-01-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2021-01-01 to 2021-03-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2021-01-01 to 2021-11-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 0.00. Aggregated rows: 21. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 0.00. Aggregated rows: 14. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 0.00. Aggregated rows: 6. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 0.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 0.00. Aggregated rows: 9. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 0.00. Aggregated rows: 5. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Due (code: 66).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Due (code: 66).
+Total reported volume: 0.00. Aggregated rows: 21. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Due (code: 67).
+Total reported volume: 0.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 8. Period covered: 2021-02-01 to 2021-09-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 0.00. Aggregated rows: 11. Period covered: 2021-02-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2021-03-01 to 2021-12-01. County reference: Harding. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2021-03-01 to 2021-12-01. County reference: Quay. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2021-03-01 to 2021-12-01. County reference: Union. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2021-03-01 to 2021-12-01. County reference: Harding. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2021-03-01 to 2021-12-01. County reference: Quay. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Water Disposal-Other than Injected/Transferred (code: 27).
+Total reported volume: 0.00. Aggregated rows: 10. Period covered: 2021-03-01 to 2021-12-01. County reference: Union. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Water Disposal-Other than Injected/Transferred'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Waste Oil/Slop Oil (code: 29).
+Total reported volume: 0.00. Aggregated rows: 4. Period covered: 2021-05-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Waste Oil/Slop Oil'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Oil Well Gas - Royalty Not Due (code: 21).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2021-05-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 7. Period covered: 2021-06-01 to 2021-12-01. County reference: Colfax. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Used on L/A-Native Production Only (code: 20).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2021-06-01 to 2021-07-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Used on L/A-Native Production Only'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 0.00. Aggregated rows: 4. Period covered: 2021-06-01 to 2021-11-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 0.00. Aggregated rows: 5. Period covered: 2021-06-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Spilled and/or Lost-Unavoidable-Royalty Not Due (code: 23).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2021-07-01 to 2021-07-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Spilled and/or Lost-Unavoidable-Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Spilled and/or Lost-Unavoidable-Royalty Not Due (code: 23).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2021-07-01 to 2021-07-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Spilled and/or Lost-Unavoidable-Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2021-07-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Condensate Sales-Royalty Due-MEASURED (code: 7).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2021-08-01 to 2021-08-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Condensate Sales-Royalty Due-MEASURED'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Waste Oil/Slop Oil (code: 29).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2021-09-01 to 2021-11-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Waste Oil/Slop Oil'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Not Due (code: 22).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2021-09-01 to 2021-11-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 0.00. Aggregated rows: 4. Period covered: 2021-09-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 0.00. Aggregated rows: 4. Period covered: 2021-09-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Flared Gas Well Gas - Royalty Due (code: 67).
+Total reported volume: 0.00. Aggregated rows: 4. Period covered: 2021-09-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Flared Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Due (code: 68).
+Total reported volume: 0.00. Aggregated rows: 4. Period covered: 2021-09-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2021-10-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2021-10-01 to 2021-12-01. County reference: Chaves. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Oil Well Gas - Royalty Not Due (code: 61).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2021-10-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Oil Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Not Due (code: 62).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2021-10-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Not Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Due (code: 69).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2021-10-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Gas Well Gas - Royalty Due (code: 69).
+Total reported volume: 0.00. Aggregated rows: 3. Period covered: 2021-10-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas Well Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Sales-Royalty Due-Not Measured (code: 4).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2021-11-01 to 2021-11-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Sales-Royalty Due-Not Measured'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Transferred from Facility (code: 13).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2021-11-01 to 2021-11-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded 0.00 volume units for disposition 'Transferred from Facility'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Buy-Back-Used on L/A (code: 26).
+Total reported volume: 0.00. Aggregated rows: 1. Period covered: 2021-11-01 to 2021-11-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Buy-Back-Used on L/A'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Vented Gas - Royalty Due (code: 63).
+Total reported volume: 0.00. Aggregated rows: 2. Period covered: 2021-11-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded 0.00 volume units for disposition 'Vented Gas - Royalty Due'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: -2.00. Aggregated rows: 21. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded -2.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: -3.00. Aggregated rows: 3. Period covered: 2021-10-01 to 2021-12-01. County reference: Roosevelt. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded -3.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: -4.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded -4.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: -20.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded -20.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Transferred from Facility (code: 13).
+Total reported volume: -44.00. Aggregated rows: 1. Period covered: 2021-11-01 to 2021-11-01. County reference: Rio Arriba. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded -44.00 volume units for disposition 'Transferred from Facility'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: -189.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded -189.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Differences/Adjustments (code: 42).
+Total reported volume: -380.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: San Juan. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded -380.00 volume units for disposition 'Differences/Adjustments'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: -8,750.00. Aggregated rows: 12. Period covered: 2021-01-01 to 2021-12-01. County reference: Sandoval. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded -8,750.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Transferred from Facility (code: 13).
+Total reported volume: -302,096.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded -302,096.00 volume units for disposition 'Transferred from Facility'.
+
+State: NM. Year: 2021. Commodity: Oil (bbl). Disposition: Transferred from Facility (code: 13).
+Total reported volume: -394,202.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Oil (bbl) recorded -394,202.00 volume units for disposition 'Transferred from Facility'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: -17,311,313.00. Aggregated rows: 24. Period covered: 2021-01-01 to 2021-12-01. County reference: Eddy. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded -17,311,313.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+
+State: NM. Year: 2021. Commodity: Gas (Mcf). Disposition: Buy-Back Purchased for L/A Use (code: 25).
+Total reported volume: -94,400,062.00. Aggregated rows: 22. Period covered: 2021-01-01 to 2021-12-01. County reference: Lea. Offshore region: Onshore.
+In NM during 2021, Gas (Mcf) recorded -94,400,062.00 volume units for disposition 'Buy-Back Purchased for L/A Use'.
+

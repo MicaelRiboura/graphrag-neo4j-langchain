@@ -1,5 +1,6 @@
 """Extract entities and relationships from TextUnits using LLM; persist to Neo4j."""
 
+import os
 from typing import List, Any
 
 from langchain_core.prompts import ChatPromptTemplate
@@ -34,18 +35,28 @@ For each entity give: name, type, short description.
 For each relationship give: source entity name, target entity name, type, short description.
 Only use entities and relationships explicitly mentioned or clearly implied in the text."""
 
-_extract_prompt = ChatPromptTemplate.from_messages(
-    [
-        ("system", EXTRACT_SYSTEM),
-        ("human", "Text:\n{text}"),
-    ]
-)
+EXTRACT_SYSTEM_OIL_GAS = """You are an expert in US oil and gas production/disposition data extraction.
+For the given text chunk, extract entities and relationships explicitly present or clearly implied.
+Prioritize these entity types when applicable: State, County, OffshoreRegion, Commodity, DispositionType, TimePeriod, Measurement.
+Use concise relationship types such as LOCATED_IN, HAS_DISPOSITION, HAS_COMMODITY, IN_PERIOD, MEASURED_VOLUME.
+Include short descriptions and keep names normalized when possible."""
+
+
+def _build_extract_prompt() -> ChatPromptTemplate:
+    domain = os.environ.get("GRAPHRAG_EXTRACT_DOMAIN", "").strip().lower()
+    system_prompt = EXTRACT_SYSTEM_OIL_GAS if domain == "oil_gas" else EXTRACT_SYSTEM
+    return ChatPromptTemplate.from_messages(
+        [
+            ("system", system_prompt),
+            ("human", "Text:\n{text}"),
+        ]
+    )
 
 
 def _get_extract_chain():
     llm = ChatOpenAI(model=LLM_MODEL, temperature=0, api_key=OPENAI_API_KEY)
     structured_llm = llm.with_structured_output(ExtractedGraph)
-    return _extract_prompt | structured_llm
+    return _build_extract_prompt() | structured_llm
 
 
 def extract_from_text(text: str) -> ExtractedGraph:
