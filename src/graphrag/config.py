@@ -66,6 +66,10 @@ LOCAL_ENTITY_LINKED_REPORTS_CAP = int(os.environ.get("GRAPHRAG_LOCAL_REPORTS_CAP
 LOCAL_SYNTH_CONTEXT_DOC_CAP = int(os.environ.get("GRAPHRAG_LOCAL_SYNTH_DOC_CAP", "64"))
 CYPHER_PROMPT_CONTEXT_DOCS = int(os.environ.get("GRAPHRAG_CYPHER_CONTEXT_DOCS", "12"))
 
+# Comunidades hierárquicas (indexação estilo GraphRAG)
+COMMUNITY_MAX_LEVELS = int(os.environ.get("GRAPHRAG_COMMUNITY_MAX_LEVELS", "6"))
+COMMUNITY_MIN_SIZE = int(os.environ.get("GRAPHRAG_COMMUNITY_MIN_SIZE", "2"))
+
 # LLM
 LLM_MODEL = os.environ.get("GRAPHRAG_LLM_MODEL", "gpt-4.1-2025-04-14")
 EMBEDDING_MODEL = os.environ.get("GRAPHRAG_EMBEDDING_MODEL", "text-embedding-3-small")

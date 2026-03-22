@@ -22,6 +22,7 @@ from graphrag.indexing.extract_graph import run_extract_on_chunks
 from graphrag.indexing.communities import run_communities
 from graphrag.indexing.reports import run_reports
 from graphrag.indexing.embed import run_embed_all
+from graphrag.store.neo4j_graph import get_neo4j_graph
 
 
 def main():
@@ -62,9 +63,11 @@ def main():
         print("Extraction done.")
 
     if not args.skip_communities:
-        print("Running community detection...")
+        print("Running hierarchical community detection...")
         comms = run_communities()
-        print(f"Found {len(comms)} communities.")
+        with get_neo4j_graph()._driver.session() as session:
+            total = session.run("MATCH (c:Community) RETURN count(c) AS n").single()["n"]
+        print(f"Level-0 entity communities: {len(comms)}; total Community nodes (all levels): {total}")
     else:
         print("Skipping community detection.")
 

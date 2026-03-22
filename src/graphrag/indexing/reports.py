@@ -1,6 +1,9 @@
-"""Generate Community Reports (LLM summaries) and persist as CommunityReport nodes."""
+"""Geração de Community Reports: nível 0 a partir de entidades; níveis superiores bottom-up a partir dos relatórios filhos."""
 
-from typing import List, Set
+from __future__ import annotations
+
+import os
+from typing import List
 
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
@@ -26,16 +29,51 @@ Your report must capture aggregations, trends, and major contributors. Do not ju
 
 Write in clear, objective, and precise analytical language. Strictly ground your summary in the provided relationships. Do not infer data outside the provided community graph."""
 
-_report_prompt = ChatPromptTemplate.from_messages(
-    [
-        ("system", REPORT_SYSTEM_OIL_GAS),
-        ("human", "Entities and relationships:\n{context}"),
-    ]
-)
+REPORT_SYSTEM_HIERARCHY = """You synthesize several summaries of lower-level communities into a single higher-level community report.
+Use only the information present in the child summaries. Identify cross-cutting themes, scope, and how the parts relate.
+Write 2–5 clear paragraphs in neutral language. Do not invent facts absent from the summaries."""
+
+REPORT_SYSTEM_HIERARCHY_OIL_GAS = """You are an O&G data analyst. You receive analytical summaries of child communities (already structured).
+Produce a higher-level synthesis suitable for global search: broader themes, comparisons across child communities, and dataset-wide patterns implied by the children.
+Ground every statement in the provided child summaries. Write 3–5 structured paragraphs."""
+
+
+def _oil_gas_domain() -> bool:
+    return os.environ.get("GRAPHRAG_EXTRACT_DOMAIN", "").strip().lower() == "oil_gas"
+
+
+def _report_prompt_level0() -> ChatPromptTemplate:
+    system = REPORT_SYSTEM_OIL_GAS if _oil_gas_domain() else REPORT_SYSTEM
+    return ChatPromptTemplate.from_messages(
+        [
+            ("system", system),
+            ("human", "Entities and relationships:\n{context}"),
+        ]
+    )
+
+
+def _report_prompt_hierarchy() -> ChatPromptTemplate:
+    system = REPORT_SYSTEM_HIERARCHY_OIL_GAS if _oil_gas_domain() else REPORT_SYSTEM_HIERARCHY
+    return ChatPromptTemplate.from_messages(
+        [
+            ("system", system),
+            ("human", "Child community summaries:\n{context}"),
+        ]
+    )
+
+
+def _get_community_level(community_id: str) -> int:
+    driver = get_neo4j_graph()._driver
+    with driver.session() as session:
+        row = session.run(
+            "MATCH (c:Community {id: $id}) RETURN coalesce(c.level, 0) AS level",
+            id=community_id,
+        ).single()
+    return int(row["level"]) if row else 0
 
 
 def _get_community_context(community_id: str) -> str:
-    """Fetch entity names and relationship descriptions for a community from Neo4j."""
+    """Contexto para comunidade de nível 0: entidades e relações no subgrafo da comunidade."""
     driver = get_neo4j_graph()._driver
     with driver.session() as session:
         result = session.run(
@@ -56,17 +94,51 @@ def _get_community_context(community_id: str) -> str:
         return "\n".join(lines) if lines else "No data"
 
 
+def _get_hierarchy_context(community_id: str, parent_level: int) -> str:
+    """Agrega textos dos relatórios das comunidades filhas (nível parent_level - 1)."""
+    child_level = max(0, parent_level - 1)
+    driver = get_neo4j_graph()._driver
+    with driver.session() as session:
+        result = session.run(
+            """
+            MATCH (child:Community)-[:PART_OF]->(parent:Community {id: $pid})
+            WHERE coalesce(child.level, 0) = $child_level
+            OPTIONAL MATCH (child)-[:HAS_REPORT]->(r:CommunityReport)
+            RETURN child.id AS cid, coalesce(r.content, '') AS content
+            ORDER BY child.id
+            """,
+            pid=community_id,
+            child_level=child_level,
+        )
+        blocks = []
+        for r in result:
+            cid = r["cid"]
+            content = (r["content"] or "").strip()
+            if content:
+                blocks.append(f"--- Child community {cid} ---\n{content}")
+            else:
+                blocks.append(f"--- Child community {cid} ---\n(No report yet; treat as empty.)")
+        return "\n\n".join(blocks) if blocks else "No data"
+
+
 def generate_report_for_community(community_id: str) -> str:
-    """Generate one Community Report text for a community."""
-    context = _get_community_context(community_id)
+    """Nível 0: entidades+rels. Níveis > 0: síntese bottom-up dos relatórios filhos."""
+    level = _get_community_level(community_id)
     llm = ChatOpenAI(model=LLM_MODEL, temperature=0, api_key=OPENAI_API_KEY)
-    chain = _report_prompt | llm
-    out = chain.invoke({"context": context})
+
+    if level == 0:
+        context = _get_community_context(community_id)
+        chain = _report_prompt_level0() | llm
+        out = chain.invoke({"context": context})
+    else:
+        context = _get_hierarchy_context(community_id, level)
+        chain = _report_prompt_hierarchy() | llm
+        out = chain.invoke({"context": context})
+
     return out.content if hasattr(out, "content") else str(out)
 
 
 def persist_report_to_neo4j(community_id: str, content: str) -> None:
-    """Create CommunityReport node and link to Community."""
     driver = get_neo4j_graph()._driver
     with driver.session() as session:
         session.run(
@@ -82,12 +154,25 @@ def persist_report_to_neo4j(community_id: str, content: str) -> None:
 
 
 def run_reports(community_ids: List[str] | None = None) -> None:
-    """Generate and persist reports for all communities (or given IDs)."""
+    """
+    Gera relatórios em ordem **bottom-up** (nível 0 primeiro, depois 1, …)
+    para que comunidades pai vejam `HAS_REPORT` dos filhos.
+    """
+    driver = get_neo4j_graph()._driver
     if community_ids is None:
-        driver = get_neo4j_graph()._driver
         with driver.session() as session:
-            result = session.run("MATCH (c:Community) RETURN c.id AS id")
-            community_ids = [r["id"] for r in result]
-    for cid in community_ids:
+            result = session.run(
+                """
+                MATCH (c:Community)
+                RETURN c.id AS id, coalesce(c.level, 0) AS level
+                ORDER BY level ASC, c.id ASC
+                """
+            )
+            rows = [(r["id"], int(r["level"])) for r in result]
+    else:
+        rows = [(cid, _get_community_level(cid)) for cid in community_ids]
+        rows.sort(key=lambda x: (x[1], x[0]))
+
+    for cid, _lvl in rows:
         content = generate_report_for_community(cid)
         persist_report_to_neo4j(cid, content)
