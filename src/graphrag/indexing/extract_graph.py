@@ -9,7 +9,13 @@ from langchain_core.prompts import ChatPromptTemplate
 from pydantic import BaseModel, Field
 from langchain_openai import ChatOpenAI
 
-from graphrag.config import ENTITY_DESCRIPTION_MAX_CHARS, OPENAI_API_KEY, LLM_MODEL
+from graphrag.config import (
+    ENTITY_DESCRIPTION_MAX_CHARS,
+    EXTRACT_MAX_INPUT_TOKENS,
+    OPENAI_API_KEY,
+    LLM_MODEL,
+)
+from graphrag.retrieval.token_budget import truncate_to_tokens
 from graphrag.indexing.entity_resolution import (
     backfill_entity_keys_cypher,
     make_entity_key,
@@ -36,6 +42,14 @@ class Relationship(BaseModel):
 class Claim(BaseModel):
     subject: str = Field(description="Entity name the claim is about (must match an extracted entity when possible)")
     text: str = Field(description="Single atomic factual claim supported by the text")
+    claim_type: str = Field(
+        default="fact",
+        description="Kind: fact, statistic, causal, comparison, temporal, other",
+    )
+    status: str = Field(
+        default="asserted",
+        description="asserted | hedged | conditional (how strongly the text supports it)",
+    )
 
 
 class Covariate(BaseModel):
@@ -43,6 +57,10 @@ class Covariate(BaseModel):
     attribute: str = Field(description="Attribute name, e.g. volume_mcf, year, disposition_type")
     value: str = Field(description="Value as string")
     unit: str = Field(default="", description="Unit if applicable, else empty")
+    covariate_kind: str = Field(
+        default="attribute",
+        description="measurement | categorical | temporal | geographic | other",
+    )
 
 
 class ExtractedGraph(BaseModel):
@@ -56,8 +74,8 @@ EXTRACT_SYSTEM = """You are an expert at extracting structured knowledge from te
 For the given text chunk, extract:
 1) Entities: people, places, organizations, concepts — name, type, short description.
 2) Relationships between entities: source, target, relationship type, short description.
-3) Claims: atomic factual statements; each has subject (entity name) and text (one claim).
-4) Covariates: structured attributes tied to an entity — entity_name, attribute, value, optional unit (e.g. volumes, dates).
+3) Claims: atomic factual statements; subject (entity name), text, claim_type (fact/statistic/causal/comparison/temporal), status (asserted/hedged/conditional).
+4) Covariates: entity_name, attribute, value, optional unit, covariate_kind (measurement/categorical/temporal/geographic).
 Only use information explicitly stated or clearly implied in the text."""
 
 EXTRACT_SYSTEM_OIL_GAS = """You are an expert in US oil and gas production/disposition data extraction.
@@ -65,8 +83,8 @@ For the given text chunk, extract:
 1) Entities and relationships explicitly present or clearly implied.
    Prioritize: State, County, OffshoreRegion, Commodity, DispositionType, TimePeriod, Measurement.
    Use relationship types such as LOCATED_IN, HAS_DISPOSITION, HAS_COMMODITY, IN_PERIOD, MEASURED_VOLUME.
-2) Claims: one fact per item (e.g. which county had which volume for which disposition/year).
-3) Covariates: numeric or categorical fields (entity_name, attribute, value, unit) e.g. Gas_Mcf=1234, year=2024.
+2) Claims: one fact per item; set claim_type (e.g. statistic, disposition_fact) and status (asserted vs hedged).
+3) Covariates: entity_name, attribute, value, unit, covariate_kind (measurement, temporal, etc.).
 Keep names normalized when possible."""
 
 
@@ -88,9 +106,12 @@ def _get_extract_chain():
 
 
 def extract_from_text(text: str) -> ExtractedGraph:
-    """Extract entities and relationships from a single text chunk."""
+    """Extract structured graph from one TextUnit; entrada limitada por tokens (config)."""
+    raw = (text or "").strip()
+    if EXTRACT_MAX_INPUT_TOKENS and EXTRACT_MAX_INPUT_TOKENS > 0:
+        raw = truncate_to_tokens(raw, EXTRACT_MAX_INPUT_TOKENS)
     chain = _get_extract_chain()
-    return chain.invoke({"text": text[:8000]})  # cap length
+    return chain.invoke({"text": raw})
 
 
 def _stable_id(*parts: str) -> str:
@@ -229,16 +250,22 @@ def persist_extraction_to_neo4j(tu_id: str, extraction: ExtractedGraph) -> None:
             )
 
         for cl in extraction.claims:
-            cid = _stable_id("claim", tu_id, cl.subject, cl.text)
+            cid = _stable_id("claim", tu_id, cl.subject, cl.text, cl.claim_type, cl.status)
             session.run(
                 """
                 MERGE (c:Claim {id: $cid})
-                SET c.text = $text, c.subject = $subject, c.source_tu = $tu_id
+                SET c.text = $text,
+                    c.subject = $subject,
+                    c.source_tu = $tu_id,
+                    c.claim_type = $claim_type,
+                    c.status = $status
                 """,
                 cid=cid,
                 text=cl.text,
                 subject=cl.subject,
                 tu_id=tu_id,
+                claim_type=(cl.claim_type or "fact").strip() or "fact",
+                status=(cl.status or "asserted").strip() or "asserted",
             )
             session.run(
                 """
@@ -264,8 +291,12 @@ def persist_extraction_to_neo4j(tu_id: str, extraction: ExtractedGraph) -> None:
             session.run(
                 """
                 MERGE (v:Covariate {id: $vid})
-                SET v.name = $attr, v.value = $value, v.unit = $unit, v.source_tu = $tu_id,
-                    v.entity_name = $entity_name
+                SET v.name = $attr,
+                    v.value = $value,
+                    v.unit = $unit,
+                    v.source_tu = $tu_id,
+                    v.entity_name = $entity_name,
+                    v.covariate_kind = $cov_kind
                 """,
                 vid=vid,
                 attr=cv.attribute,
@@ -273,6 +304,7 @@ def persist_extraction_to_neo4j(tu_id: str, extraction: ExtractedGraph) -> None:
                 unit=cv.unit or "",
                 entity_name=cv.entity_name,
                 tu_id=tu_id,
+                cov_kind=(cv.covariate_kind or "attribute").strip() or "attribute",
             )
             session.run(
                 """

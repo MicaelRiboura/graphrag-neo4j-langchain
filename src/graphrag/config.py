@@ -79,6 +79,17 @@ ENTITY_RESOLUTION_MAX_ALIASES = int(
     os.environ.get("GRAPHRAG_ENTITY_RESOLUTION_MAX_ALIASES", "32")
 )
 
+# Chunking de TextUnits (gap GraphRAG: preferir tokens + metadados de documento)
+# GRAPHRAG_CHUNK_STRATEGY: "tokens" (default) ou "chars"
+CHUNK_STRATEGY = os.environ.get("GRAPHRAG_CHUNK_STRATEGY", "tokens").strip().lower()
+TEXT_UNIT_CHUNK_SIZE_TOKENS = int(os.environ.get("GRAPHRAG_CHUNK_SIZE_TOKENS", "512"))
+TEXT_UNIT_CHUNK_OVERLAP_TOKENS = int(os.environ.get("GRAPHRAG_CHUNK_OVERLAP_TOKENS", "64"))
+TEXT_UNIT_CHUNK_SIZE_CHARS = int(os.environ.get("GRAPHRAG_CHUNK_SIZE_CHARS", "1200"))
+TEXT_UNIT_CHUNK_OVERLAP_CHARS = int(os.environ.get("GRAPHRAG_CHUNK_OVERLAP_CHARS", "200"))
+
+# Entrada máxima à extração LLM (truncar por tokens)
+EXTRACT_MAX_INPUT_TOKENS = int(os.environ.get("GRAPHRAG_EXTRACT_MAX_INPUT_TOKENS", "8192"))
+
 # LLM
 LLM_MODEL = os.environ.get("GRAPHRAG_LLM_MODEL", "gpt-4.1-2025-04-14")
 EMBEDDING_MODEL = os.environ.get("GRAPHRAG_EMBEDDING_MODEL", "text-embedding-3-small")

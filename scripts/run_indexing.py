@@ -17,9 +17,11 @@ if _env.exists():
     except ImportError:
         pass
 
+from graphrag.config import CHUNK_STRATEGY
 from graphrag.indexing.load_and_chunk import run_load_and_chunk
 from graphrag.indexing.extract_graph import run_extract_on_chunks
 from graphrag.indexing.communities import run_communities
+from graphrag.indexing.graph_links import link_claims_and_covariates_to_communities
 from graphrag.indexing.reports import run_reports
 from graphrag.indexing.embed import run_embed_all
 from graphrag.store.neo4j_graph import get_neo4j_graph
@@ -33,6 +35,12 @@ def main():
     parser.add_argument("--skip-communities", action="store_true", help="Skip community detection")
     parser.add_argument("--skip-reports", action="store_true", help="Skip community reports")
     parser.add_argument("--skip-embed", action="store_true", help="Skip embedding step")
+    parser.add_argument(
+        "--chunk-strategy",
+        choices=["tokens", "chars"],
+        default=None,
+        help="Override GRAPHRAG_CHUNK_STRATEGY: tokens (default) or chars.",
+    )
     args = parser.parse_args()
 
     input_path = Path(args.input_dir)
@@ -42,8 +50,9 @@ def main():
         if not input_path.is_dir():
             print(f"Input directory not found: {input_path}")
             sys.exit(1)
-        print("Loading and chunking documents...")
-        chunk_records = run_load_and_chunk(input_path)
+        strat = args.chunk_strategy or CHUNK_STRATEGY
+        print(f"Loading and chunking documents (strategy={strat})...")
+        chunk_records = run_load_and_chunk(input_path, strategy=args.chunk_strategy)
         print(f"Created {len(chunk_records)} TextUnits.")
     else:
         # For skip_load we need chunk_records for extract; if skip_extract too, we skip both
@@ -68,6 +77,11 @@ def main():
         with get_neo4j_graph()._driver.session() as session:
             total = session.run("MATCH (c:Community) RETURN count(c) AS n").single()["n"]
         print(f"Level-0 entity communities: {len(comms)}; total Community nodes (all levels): {total}")
+        lc = link_claims_and_covariates_to_communities()
+        print(
+            "Linked structured nodes to L0 communities: "
+            f"{lc['claim_links']} claims, {lc['covariate_links']} covariates."
+        )
     else:
         print("Skipping community detection.")
 
