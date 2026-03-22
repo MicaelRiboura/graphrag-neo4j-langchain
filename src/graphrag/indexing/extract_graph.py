@@ -2,13 +2,14 @@
 
 import hashlib
 import os
-from typing import List, Any
+import re
+from typing import Any, List, Optional, Tuple
 
 from langchain_core.prompts import ChatPromptTemplate
 from pydantic import BaseModel, Field
 from langchain_openai import ChatOpenAI
 
-from graphrag.config import OPENAI_API_KEY, LLM_MODEL
+from graphrag.config import ENTITY_DESCRIPTION_MAX_CHARS, OPENAI_API_KEY, LLM_MODEL
 from graphrag.store.neo4j_graph import get_neo4j_graph
 
 
@@ -90,23 +91,92 @@ def _stable_id(*parts: str) -> str:
     return h
 
 
+def _norm_desc(s: str) -> str:
+    return re.sub(r"\s+", " ", (s or "").strip())
+
+
+def merge_entity_descriptions(
+    existing: Optional[str],
+    incoming: str,
+    *,
+    max_chars: int = ENTITY_DESCRIPTION_MAX_CHARS,
+    separator: str = "\n---\n",
+) -> str:
+    """
+    Acumula descrições da mesma entidade ao longo de vários TextUnits (estilo GraphRAG).
+    Evita duplicar texto idêntico ou contido; limita o tamanho total.
+    """
+    inc = (incoming or "").strip()
+    old = (existing or "").strip()
+    if not inc:
+        return old
+    if not old:
+        return inc[:max_chars] if max_chars > 0 else inc
+    if _norm_desc(inc) == _norm_desc(old):
+        return old
+    if inc in old:
+        return old
+    if old in inc:
+        return inc[:max_chars] if max_chars > 0 else inc
+    for part in old.split(separator):
+        if _norm_desc(part) == _norm_desc(inc):
+            return old
+    merged = old + separator + inc
+    if max_chars <= 0 or len(merged) <= max_chars:
+        return merged
+    mid = "\n---\n...[truncated]...\n---\n"
+    usable = max_chars - len(mid)
+    if usable < 64:
+        return merged[-max_chars:]
+    head_budget = usable // 2
+    tail_budget = usable - head_budget
+    head = old[:head_budget]
+    tail = inc[-tail_budget:] if len(inc) > tail_budget else inc
+    out = head + mid + tail
+    return out[:max_chars]
+
+
+def _dedupe_entities_for_chunk(entities: List[Entity]) -> List[Entity]:
+    """Uma linha por (name, type) por chunk, fundindo descrições extraídas no mesmo TextUnit."""
+    merged: dict[Tuple[str, str], Entity] = {}
+    for e in entities:
+        key = (e.name.strip(), e.type.strip())
+        if key not in merged:
+            merged[key] = e
+            continue
+        cur = merged[key]
+        desc = merge_entity_descriptions(cur.description, e.description)
+        merged[key] = Entity(name=cur.name, type=cur.type, description=desc)
+    return list(merged.values())
+
+
 def persist_extraction_to_neo4j(tu_id: str, extraction: ExtractedGraph) -> None:
     """Create Entity, Relationship, Claim, Covariate nodes and link to TextUnit."""
     graph = get_neo4j_graph()
     driver = graph._driver
     with driver.session() as session:
-        for e in extraction.entities:
+        for e in _dedupe_entities_for_chunk(extraction.entities):
+            row = session.run(
+                """
+                MATCH (ex:Entity {name: $name, type: $type})
+                RETURN ex.description AS d
+                """,
+                name=e.name,
+                type=e.type,
+            ).single()
+            prev = row["d"] if row else None
+            description_merged = merge_entity_descriptions(prev, e.description)
             session.run(
                 """
                 MERGE (e:Entity {name: $name, type: $type})
-                ON CREATE SET e.description = $description
+                SET e.description = $description
                 WITH e
                 MATCH (t:TextUnit {id: $tu_id})
                 MERGE (t)-[:MENTIONS]->(e)
                 """,
                 name=e.name,
                 type=e.type,
-                description=e.description,
+                description=description_merged,
                 tu_id=tu_id,
             )
         for r in extraction.relationships:

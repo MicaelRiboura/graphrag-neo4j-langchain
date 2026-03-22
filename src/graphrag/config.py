@@ -70,6 +70,11 @@ CYPHER_PROMPT_CONTEXT_DOCS = int(os.environ.get("GRAPHRAG_CYPHER_CONTEXT_DOCS", 
 COMMUNITY_MAX_LEVELS = int(os.environ.get("GRAPHRAG_COMMUNITY_MAX_LEVELS", "6"))
 COMMUNITY_MIN_SIZE = int(os.environ.get("GRAPHRAG_COMMUNITY_MIN_SIZE", "2"))
 
+# Consolidação de descrição de entidade ao longo do corpus (gap GraphRAG: não só a primeira menção)
+ENTITY_DESCRIPTION_MAX_CHARS = int(
+    os.environ.get("GRAPHRAG_ENTITY_DESCRIPTION_MAX_CHARS", "12000")
+)
+
 # LLM
 LLM_MODEL = os.environ.get("GRAPHRAG_LLM_MODEL", "gpt-4.1-2025-04-14")
 EMBEDDING_MODEL = os.environ.get("GRAPHRAG_EMBEDDING_MODEL", "text-embedding-3-small")
