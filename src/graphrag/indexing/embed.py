@@ -14,6 +14,7 @@ from graphrag.config import (
     INDEX_NAME_REPORTS,
     EMBEDDING_DIMENSION,
 )
+from graphrag.indexing.entity_resolution import backfill_entity_keys_cypher
 from graphrag.store.neo4j_graph import get_neo4j_graph
 
 
@@ -65,18 +66,21 @@ def embed_entities() -> None:
     driver = get_neo4j_graph()._driver
     embeddings = _get_embeddings()
     with driver.session() as session:
-        result = session.run("MATCH (e:Entity) RETURN e.name AS name, e.description AS description")
-        rows = list(result)
+        backfill_entity_keys_cypher(session)
+        result = session.run(
+            "MATCH (e:Entity) RETURN e.entity_key AS ek, e.description AS description, e.name AS name"
+        )
+        rows = [r for r in result if r.get("ek")]
     if not rows:
         return
     texts = [r["description"] or r["name"] or "" for r in rows]
-    names = [r["name"] for r in rows]
+    keys = [r["ek"] for r in rows]
     vecs = embeddings.embed_documents(texts)
     with driver.session() as session:
-        for name, vec in zip(names, vecs):
+        for ek, vec in zip(keys, vecs):
             session.run(
-                "MATCH (e:Entity {name: $name}) SET e.embedding = $embedding",
-                name=name,
+                "MATCH (e:Entity {entity_key: $ek}) SET e.embedding = $embedding",
+                ek=ek,
                 embedding=vec,
             )
     create_vector_index_if_not_exists(INDEX_NAME_ENTITIES, "Entity", "description")

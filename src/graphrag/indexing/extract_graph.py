@@ -3,13 +3,20 @@
 import hashlib
 import os
 import re
-from typing import Any, List, Optional, Tuple
+from typing import Any, Dict, List, Optional, Tuple
 
 from langchain_core.prompts import ChatPromptTemplate
 from pydantic import BaseModel, Field
 from langchain_openai import ChatOpenAI
 
 from graphrag.config import ENTITY_DESCRIPTION_MAX_CHARS, OPENAI_API_KEY, LLM_MODEL
+from graphrag.indexing.entity_resolution import (
+    backfill_entity_keys_cypher,
+    make_entity_key,
+    merge_canonical_name_and_aliases,
+    normalize_token,
+    resolve_surface_to_entity_key,
+)
 from graphrag.store.neo4j_graph import get_neo4j_graph
 
 
@@ -137,60 +144,90 @@ def merge_entity_descriptions(
 
 
 def _dedupe_entities_for_chunk(entities: List[Entity]) -> List[Entity]:
-    """Uma linha por (name, type) por chunk, fundindo descrições extraídas no mesmo TextUnit."""
+    """Uma entidade canónica por (nome normalizado, tipo normalizado) no mesmo TextUnit."""
     merged: dict[Tuple[str, str], Entity] = {}
     for e in entities:
-        key = (e.name.strip(), e.type.strip())
+        key = (normalize_token(e.name), normalize_token(e.type))
         if key not in merged:
             merged[key] = e
             continue
         cur = merged[key]
         desc = merge_entity_descriptions(cur.description, e.description)
-        merged[key] = Entity(name=cur.name, type=cur.type, description=desc)
+        longer_name = cur.name if len(cur.name) >= len(e.name) else e.name
+        longer_type = cur.type if len(cur.type) >= len(e.type) else e.type
+        merged[key] = Entity(name=longer_name, type=longer_type, description=desc)
     return list(merged.values())
 
 
+def _norm_name_to_entity_keys(deduped: List[Entity]) -> Dict[str, List[str]]:
+    m: Dict[str, List[str]] = {}
+    for e in deduped:
+        k = make_entity_key(e.name, e.type)
+        m.setdefault(normalize_token(e.name), []).append(k)
+    return m
+
+
 def persist_extraction_to_neo4j(tu_id: str, extraction: ExtractedGraph) -> None:
-    """Create Entity, Relationship, Claim, Covariate nodes and link to TextUnit."""
+    """Persiste grafo com resolução por `entity_key`, aliases e ligações resolvidas por nome canónico."""
     graph = get_neo4j_graph()
     driver = graph._driver
     with driver.session() as session:
-        for e in _dedupe_entities_for_chunk(extraction.entities):
+        deduped = _dedupe_entities_for_chunk(extraction.entities)
+        norm_map = _norm_name_to_entity_keys(deduped)
+
+        for e in deduped:
+            ekey = make_entity_key(e.name, e.type)
             row = session.run(
                 """
-                MATCH (ex:Entity {name: $name, type: $type})
-                RETURN ex.description AS d
+                MATCH (ex:Entity {entity_key: $k})
+                RETURN ex.description AS d, ex.name AS n, ex.aliases AS a
                 """,
-                name=e.name,
-                type=e.type,
+                k=ekey,
             ).single()
-            prev = row["d"] if row else None
-            description_merged = merge_entity_descriptions(prev, e.description)
+            prev_desc = row["d"] if row else None
+            description_merged = merge_entity_descriptions(prev_desc, e.description)
+            prev_aliases = list(row["a"]) if row and row.get("a") else None
+            canon, aliases = merge_canonical_name_and_aliases(
+                row["n"] if row else None,
+                prev_aliases,
+                e.name,
+            )
             session.run(
                 """
-                MERGE (e:Entity {name: $name, type: $type})
-                SET e.description = $description
-                WITH e
+                MERGE (x:Entity {entity_key: $entity_key})
+                SET x.name = $name,
+                    x.type = $type,
+                    x.description = $description,
+                    x.aliases = $aliases
+                WITH x
                 MATCH (t:TextUnit {id: $tu_id})
-                MERGE (t)-[:MENTIONS]->(e)
+                MERGE (t)-[:MENTIONS]->(x)
                 """,
-                name=e.name,
-                type=e.type,
+                entity_key=ekey,
+                name=canon,
+                type=e.type.strip(),
                 description=description_merged,
+                aliases=aliases,
                 tu_id=tu_id,
             )
+
         for r in extraction.relationships:
+            sk = resolve_surface_to_entity_key(session, r.source, norm_map)
+            tk = resolve_surface_to_entity_key(session, r.target, norm_map)
+            if not sk or not tk:
+                continue
             session.run(
                 """
-                MATCH (a:Entity {name: $source}), (b:Entity {name: $target})
-                MERGE (a)-[rel:RELATES_TO {type: $type}]->(b)
+                MATCH (a:Entity {entity_key: $sa}), (b:Entity {entity_key: $sb})
+                MERGE (a)-[rel:RELATES_TO {type: $rtype}]->(b)
                 ON CREATE SET rel.description = $description
                 """,
-                source=r.source,
-                target=r.target,
-                type=r.type,
+                sa=sk,
+                sb=tk,
+                rtype=r.type,
                 description=r.description,
             )
+
         for cl in extraction.claims:
             cid = _stable_id("claim", tu_id, cl.subject, cl.text)
             session.run(
@@ -211,14 +248,17 @@ def persist_extraction_to_neo4j(tu_id: str, extraction: ExtractedGraph) -> None:
                 cid=cid,
                 tu_id=tu_id,
             )
-            session.run(
-                """
-                MATCH (e:Entity {name: $subject}), (c:Claim {id: $cid})
-                MERGE (e)-[:HAS_CLAIM]->(c)
-                """,
-                subject=cl.subject,
-                cid=cid,
-            )
+            ek = resolve_surface_to_entity_key(session, cl.subject, norm_map)
+            if ek:
+                session.run(
+                    """
+                    MATCH (e:Entity {entity_key: $ek}), (c:Claim {id: $cid})
+                    MERGE (e)-[:HAS_CLAIM]->(c)
+                    """,
+                    ek=ek,
+                    cid=cid,
+                )
+
         for cv in extraction.covariates:
             vid = _stable_id("cov", tu_id, cv.entity_name, cv.attribute, cv.value)
             session.run(
@@ -242,18 +282,23 @@ def persist_extraction_to_neo4j(tu_id: str, extraction: ExtractedGraph) -> None:
                 vid=vid,
                 tu_id=tu_id,
             )
-            session.run(
-                """
-                MATCH (e:Entity {name: $entity_name}), (v:Covariate {id: $vid})
-                MERGE (e)-[:HAS_COVARIATE]->(v)
-                """,
-                entity_name=cv.entity_name,
-                vid=vid,
-            )
+            ek = resolve_surface_to_entity_key(session, cv.entity_name, norm_map)
+            if ek:
+                session.run(
+                    """
+                    MATCH (e:Entity {entity_key: $ek}), (v:Covariate {id: $vid})
+                    MERGE (e)-[:HAS_COVARIATE]->(v)
+                    """,
+                    ek=ek,
+                    vid=vid,
+                )
 
 
 def run_extract_on_chunks(chunks: List[dict]) -> None:
     """Run extraction on each chunk. Each chunk is a dict with tu_id and text."""
+    if chunks:
+        with get_neo4j_graph()._driver.session() as session:
+            backfill_entity_keys_cypher(session)
     for chunk in chunks:
         tu_id = chunk.get("tu_id", str(id(chunk)))
         text = chunk.get("text", "")

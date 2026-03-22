@@ -74,6 +74,10 @@ COMMUNITY_MIN_SIZE = int(os.environ.get("GRAPHRAG_COMMUNITY_MIN_SIZE", "2"))
 ENTITY_DESCRIPTION_MAX_CHARS = int(
     os.environ.get("GRAPHRAG_ENTITY_DESCRIPTION_MAX_CHARS", "12000")
 )
+# Resolução de entidades: máximo de aliases alternativos guardados por nó
+ENTITY_RESOLUTION_MAX_ALIASES = int(
+    os.environ.get("GRAPHRAG_ENTITY_RESOLUTION_MAX_ALIASES", "32")
+)
 
 # LLM
 LLM_MODEL = os.environ.get("GRAPHRAG_LLM_MODEL", "gpt-4.1-2025-04-14")
