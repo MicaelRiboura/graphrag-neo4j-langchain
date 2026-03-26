@@ -3,7 +3,6 @@
 from typing import Optional
 
 from langchain_community.vectorstores import Neo4jVector
-from langchain_openai import OpenAIEmbeddings
 
 from graphrag.config import (
     NEO4J_URI,
@@ -16,10 +15,11 @@ from graphrag.config import (
     OPENAI_API_KEY,
     EMBEDDING_MODEL,
 )
+from graphrag.monitoring.token_cost import TrackedOpenAIEmbeddings
 
 
-def _get_embeddings() -> OpenAIEmbeddings:
-    return OpenAIEmbeddings(
+def _get_embeddings() -> TrackedOpenAIEmbeddings:
+    return TrackedOpenAIEmbeddings(
         model=EMBEDDING_MODEL,
         openai_api_key=OPENAI_API_KEY,
     )

@@ -5,9 +5,9 @@ from typing import List
 from langchain_core.prompts import ChatPromptTemplate
 from pydantic import BaseModel, Field
 from langchain_core.output_parsers import PydanticOutputParser
-from langchain_openai import ChatOpenAI
 
 from graphrag.config import OPENAI_API_KEY, LLM_MODEL
+from graphrag.monitoring.token_cost import tracked_chat_openai
 
 
 class SubQuery(BaseModel):
@@ -22,7 +22,7 @@ class DecomposedQueries(BaseModel):
     subqueries: List[SubQuery] = Field(description="List of 1 to 3 subqueries.")
 
 
-_llm = ChatOpenAI(
+_llm = tracked_chat_openai(
     model=LLM_MODEL,
     temperature=0,
     api_key=OPENAI_API_KEY,

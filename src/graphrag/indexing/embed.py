@@ -1,6 +1,5 @@
 """Generate embeddings for TextUnits, Entity descriptions, and CommunityReport content; write to Neo4j vector indexes."""
 
-from langchain_openai import OpenAIEmbeddings
 from langchain_core.documents import Document
 
 from graphrag.config import (
@@ -16,10 +15,11 @@ from graphrag.config import (
 )
 from graphrag.indexing.entity_resolution import backfill_entity_keys_cypher
 from graphrag.store.neo4j_graph import get_neo4j_graph
+from graphrag.monitoring.token_cost import TrackedOpenAIEmbeddings
 
 
 def _get_embeddings():
-    return OpenAIEmbeddings(model=EMBEDDING_MODEL, openai_api_key=OPENAI_API_KEY)
+    return TrackedOpenAIEmbeddings(model=EMBEDDING_MODEL, openai_api_key=OPENAI_API_KEY)
 
 
 def create_vector_index_if_not_exists(index_name: str, node_label: str, text_property: str) -> None:

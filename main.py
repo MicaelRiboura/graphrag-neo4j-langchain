@@ -21,12 +21,16 @@ _src = _root / "src"
 if _src.exists() and str(_src) not in sys.path:
     sys.path.insert(0, str(_src))
 
+from graphrag.monitoring.token_cost import TRACKER
+
 
 def main():
+    TRACKER.reset("query")
     from graphrag.graph import run_query
 
     question = sys.argv[1] if len(sys.argv) > 1 else "What is this knowledge base about?"
     print(run_query(question))
+    TRACKER.print_summary()
 
 
 if __name__ == "__main__":

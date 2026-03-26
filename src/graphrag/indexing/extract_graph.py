@@ -7,7 +7,6 @@ from typing import Any, Dict, List, Optional, Tuple
 
 from langchain_core.prompts import ChatPromptTemplate
 from pydantic import BaseModel, Field
-from langchain_openai import ChatOpenAI
 
 from graphrag.config import (
     ENTITY_DESCRIPTION_MAX_CHARS,
@@ -24,6 +23,7 @@ from graphrag.indexing.entity_resolution import (
     resolve_surface_to_entity_key,
 )
 from graphrag.store.neo4j_graph import get_neo4j_graph
+from graphrag.monitoring.token_cost import tracked_chat_openai
 
 
 class Entity(BaseModel):
@@ -100,7 +100,7 @@ def _build_extract_prompt() -> ChatPromptTemplate:
 
 
 def _get_extract_chain():
-    llm = ChatOpenAI(model=LLM_MODEL, temperature=0, api_key=OPENAI_API_KEY)
+    llm = tracked_chat_openai(model=LLM_MODEL, temperature=0, api_key=OPENAI_API_KEY)
     structured_llm = llm.with_structured_output(ExtractedGraph)
     return _build_extract_prompt() | structured_llm
 

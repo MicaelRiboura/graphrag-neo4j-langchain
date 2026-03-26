@@ -7,7 +7,6 @@ import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List
 
-from langchain_openai import ChatOpenAI
 from pydantic import BaseModel, Field
 
 from graphrag.config import (
@@ -22,6 +21,7 @@ from graphrag.config import (
 from graphrag.prompts.global_search import GLOBAL_MAP_PROMPT, GLOBAL_REDUCE_PROMPT
 from graphrag.prompts.synthesis import SYNTHESIS_PROMPT
 from graphrag.store.vector_index import get_vector_index_reports
+from graphrag.monitoring.token_cost import tracked_chat_openai
 
 
 class RatedPoint(BaseModel):
@@ -72,7 +72,7 @@ def _dedupe_points(points: List[RatedPoint]) -> List[RatedPoint]:
     return list(best.values())
 
 
-def _map_one_batch(question: str, batch_text: str, llm: ChatOpenAI) -> List[RatedPoint]:
+def _map_one_batch(question: str, batch_text: str, llm) -> List[RatedPoint]:
     structured = llm.with_structured_output(MapBatchOutput)
     chain = GLOBAL_MAP_PROMPT | structured
     try:
@@ -101,8 +101,8 @@ def global_search_map_reduce(question: str, reports: List[str]) -> str:
     if not reports:
         return "Nenhum relatório de comunidade encontrado. Tente indexar documentos primeiro."
 
-    llm_map = ChatOpenAI(model=LLM_MODEL, temperature=0, api_key=OPENAI_API_KEY)
-    llm_reduce = ChatOpenAI(model=LLM_MODEL, temperature=0, api_key=OPENAI_API_KEY)
+    llm_map = tracked_chat_openai(model=LLM_MODEL, temperature=0, api_key=OPENAI_API_KEY)
+    llm_reduce = tracked_chat_openai(model=LLM_MODEL, temperature=0, api_key=OPENAI_API_KEY)
 
     batches = _batch_reports(reports, GLOBAL_MAP_BATCH_SIZE)
     all_points: List[RatedPoint] = []

@@ -16,8 +16,11 @@ if env_file.exists():
         pass
 
 from graphrag.graph import run_query
+from graphrag.monitoring.token_cost import TRACKER
 
 
 if __name__ == "__main__":
+    TRACKER.reset("query")
     q = sys.argv[1] if len(sys.argv) > 1 else "What are the main themes?"
     print(run_query(q))
+    TRACKER.print_summary()

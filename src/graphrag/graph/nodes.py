@@ -8,8 +8,8 @@ from graphrag.retrieval.global_search import fetch_global_community_reports, glo
 from graphrag.chains.graph_qa import get_graph_qa_chain
 from graphrag.prompts.cypher import create_cypher_prompt, create_cypher_prompt_with_context
 from graphrag.prompts.synthesis import SYNTHESIS_PROMPT
-from langchain_openai import ChatOpenAI
 from graphrag.config import OPENAI_API_KEY, LLM_MODEL, LOCAL_SYNTH_CONTEXT_DOC_CAP
+from graphrag.monitoring.token_cost import tracked_chat_openai
 
 
 def router_node(state: GraphRAGState) -> dict:
@@ -54,7 +54,7 @@ def synthesize_node(state: GraphRAGState) -> dict:
     if cypher_result:
         parts.append(str(cypher_result))
     context = "\n\n".join(parts) if parts else "No relevant context found."
-    llm = ChatOpenAI(model=LLM_MODEL, temperature=0, api_key=OPENAI_API_KEY)
+    llm = tracked_chat_openai(model=LLM_MODEL, temperature=0, api_key=OPENAI_API_KEY)
     chain = SYNTHESIS_PROMPT | llm
     answer = chain.invoke({"context": context, "question": state["question"]})
     if hasattr(answer, "content"):

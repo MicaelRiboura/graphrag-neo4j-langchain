@@ -6,9 +6,9 @@ import os
 from typing import List
 
 from langchain_core.prompts import ChatPromptTemplate
-from langchain_openai import ChatOpenAI
 
 from graphrag.config import OPENAI_API_KEY, LLM_MODEL
+from graphrag.monitoring.token_cost import tracked_chat_openai
 from graphrag.store.neo4j_graph import get_neo4j_graph
 
 
@@ -124,7 +124,7 @@ def _get_hierarchy_context(community_id: str, parent_level: int) -> str:
 def generate_report_for_community(community_id: str) -> str:
     """Nível 0: entidades+rels. Níveis > 0: síntese bottom-up dos relatórios filhos."""
     level = _get_community_level(community_id)
-    llm = ChatOpenAI(model=LLM_MODEL, temperature=0, api_key=OPENAI_API_KEY)
+    llm = tracked_chat_openai(model=LLM_MODEL, temperature=0, api_key=OPENAI_API_KEY)
 
     if level == 0:
         context = _get_community_context(community_id)

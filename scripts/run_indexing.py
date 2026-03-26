@@ -25,9 +25,11 @@ from graphrag.indexing.graph_links import link_claims_and_covariates_to_communit
 from graphrag.indexing.reports import run_reports
 from graphrag.indexing.embed import run_embed_all
 from graphrag.store.neo4j_graph import get_neo4j_graph
+from graphrag.monitoring.token_cost import TRACKER
 
 
 def main():
+    TRACKER.reset("indexing")
     parser = argparse.ArgumentParser(description="GraphRAG indexing pipeline")
     parser.add_argument("--input-dir", "-i", type=str, default="./docs", help="Directory with .txt documents")
     parser.add_argument("--skip-load", action="store_true", help="Skip load/chunk (use existing Neo4j data)")
@@ -100,6 +102,7 @@ def main():
         print("Skipping embedding.")
 
     print("Indexing pipeline finished.")
+    TRACKER.print_summary()
 
 
 if __name__ == "__main__":

@@ -6,6 +6,7 @@ Uso:
   python examples/og_graphrag_query_eval.py
   python examples/og_graphrag_query_eval.py --qa-csv examples/og_qa_eval_set.csv
   python examples/og_graphrag_query_eval.py --output-csv outputs/og_query_eval_results.csv
+  python examples/og_graphrag_query_eval.py --metric-decimals 4 --csv-delimiter ";"
 """
 
 from __future__ import annotations
@@ -36,14 +37,22 @@ if _env.exists():
     except ImportError:
         pass
 
-from langchain_openai import ChatOpenAI
-
 from graphrag.config import OPENAI_API_KEY, LLM_MODEL
 from graphrag.graph import get_compiled_graph
+from graphrag.monitoring.token_cost import TRACKER, tracked_chat_openai
 
 
 DEFAULT_OUTPUT_CSV = ROOT / "outputs" / "og_query_eval_results.csv"
 DEFAULT_EXTRACT_DOMAIN = "oil_gas"
+# Casas decimais para métricas 0..1 e custo (evita lixo tipo 0.9750000000000001 no CSV).
+DEFAULT_METRIC_DECIMALS = 6
+
+
+def _round_metric(value: float, places: int) -> float:
+    """Arredonda float para o CSV; `places` tipicamente 4–6."""
+    if places < 0:
+        return float(value)
+    return round(float(value), places)
 
 
 class MetricScores(BaseModel):
@@ -99,6 +108,24 @@ def parse_args() -> argparse.Namespace:
         type=str,
         default=DEFAULT_EXTRACT_DOMAIN,
         help="Valor de GRAPHRAG_EXTRACT_DOMAIN (padrao: oil_gas).",
+    )
+    parser.add_argument(
+        "--metric-decimals",
+        type=int,
+        default=DEFAULT_METRIC_DECIMALS,
+        help=(
+            "Casas decimais para colunas numericas de metricas e custo no CSV "
+            f"(padrao: {DEFAULT_METRIC_DECIMALS})."
+        ),
+    )
+    parser.add_argument(
+        "--csv-delimiter",
+        type=str,
+        default=",",
+        help=(
+            "Separador de colunas no CSV. Use ';' se o Excel (locale PT-BR) "
+            "estiver desalinhando colunas por causa de virgulas no texto."
+        ),
     )
     return parser.parse_args()
 
@@ -269,13 +296,18 @@ def main() -> None:
     print(f"Modelo LLM (resposta/juiz): {LLM_MODEL}")
 
     compiled = get_compiled_graph()
-    llm_judge = ChatOpenAI(model=LLM_MODEL, temperature=0, api_key=OPENAI_API_KEY)
+    TRACKER.reset("query")
+    llm_judge = tracked_chat_openai(model=LLM_MODEL, temperature=0, api_key=OPENAI_API_KEY)
+
+    places = max(4, int(args.metric_decimals))
+    delim = (args.csv_delimiter or ",")[:1] if args.csv_delimiter else ","
 
     rows: list[dict[str, Any]] = []
     for idx, qa in enumerate(qa_pairs, start=1):
+        before = TRACKER.totals()
         print(f"\n[{idx}/{len(qa_pairs)}] Pergunta: {qa.question}")
         result = run_query(compiled, qa.question)
-        generated_answer = result.get("final_answer", "")
+        generated_answer = result.get("final_answer") or ""
 
         metric_scores = evaluate_metrics(
             llm_judge=llm_judge,
@@ -285,12 +317,16 @@ def main() -> None:
             generated_answer=generated_answer,
             query_result=result,
         )
-        overall = (
-            metric_scores.answer_correctness
-            + metric_scores.context_comprehensiveness_recall
-            + metric_scores.faithfulness_groundedness
-            + metric_scores.reasoning_path_evaluation
-        ) / 4.0
+        ac = _round_metric(metric_scores.answer_correctness, places)
+        ccr = _round_metric(metric_scores.context_comprehensiveness_recall, places)
+        fg = _round_metric(metric_scores.faithfulness_groundedness, places)
+        rpe = _round_metric(metric_scores.reasoning_path_evaluation, places)
+        overall = _round_metric((ac + ccr + fg + rpe) / 4.0, places)
+        after = TRACKER.totals()
+        row_input_tokens = int(after["input_tokens"] - before["input_tokens"])
+        row_output_tokens = int(after["output_tokens"] - before["output_tokens"])
+        row_total_tokens = int(after["total_tokens"] - before["total_tokens"])
+        row_cost_usd = _round_metric(float(after["cost_usd"] - before["cost_usd"]), places)
 
         row = {
             "question": qa.question,
@@ -301,22 +337,29 @@ def main() -> None:
             "subqueries": " | ".join(
                 [getattr(sq, "sub_query", str(sq)) for sq in (result.get("subqueries") or [])]
             ),
-            "answer_correctness": metric_scores.answer_correctness,
-            "context_comprehensiveness_recall": metric_scores.context_comprehensiveness_recall,
-            "faithfulness_groundedness": metric_scores.faithfulness_groundedness,
-            "reasoning_path_evaluation": metric_scores.reasoning_path_evaluation,
+            "answer_correctness": ac,
+            "context_comprehensiveness_recall": ccr,
+            "faithfulness_groundedness": fg,
+            "reasoning_path_evaluation": rpe,
             "overall_score": overall,
-            "notes": metric_scores.notes,
+            "notes": metric_scores.notes or "",
+            "input_tokens": row_input_tokens,
+            "output_tokens": row_output_tokens,
+            "total_tokens": row_total_tokens,
+            "cost_usd": row_cost_usd,
         }
         rows.append(row)
 
+        pf = f".{places}f"
         print(
             "Scores => "
-            f"AC={metric_scores.answer_correctness:.2f}, "
-            f"CCR={metric_scores.context_comprehensiveness_recall:.2f}, "
-            f"FG={metric_scores.faithfulness_groundedness:.2f}, "
-            f"RPE={metric_scores.reasoning_path_evaluation:.2f}, "
-            f"Overall={overall:.2f}"
+            f"AC={ac:{pf}}, "
+            f"CCR={ccr:{pf}}, "
+            f"FG={fg:{pf}}, "
+            f"RPE={rpe:{pf}}, "
+            f"Overall={overall:{pf}}, "
+            f"Tokens={row_total_tokens}, "
+            f"CustoUSD={row_cost_usd:{pf}}"
         )
 
     args.output_csv.parent.mkdir(parents=True, exist_ok=True)
@@ -333,15 +376,33 @@ def main() -> None:
         "reasoning_path_evaluation",
         "overall_score",
         "notes",
+        "input_tokens",
+        "output_tokens",
+        "total_tokens",
+        "cost_usd",
     ]
 
+    # QUOTE_NONNUMERIC: colunas texto ficam entre aspas; floats/ints das métricas saem sem aspas,
+    # o que ajuda Excel e pandas a reconhecer tipo numérico (evita "1,0" como texto errado).
     with args.output_csv.open("w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(
+            f,
+            fieldnames=fieldnames,
+            delimiter=delim,
+            quoting=csv.QUOTE_NONNUMERIC,
+        )
         writer.writeheader()
         writer.writerows(rows)
 
     print("\n" + "-" * 72)
     print(f"Resultados salvos em: {args.output_csv}")
+    TRACKER.print_summary()
+    totals = TRACKER.totals()
+    print(
+        f"[custo] avaliacao(query+juiz): input={int(totals['input_tokens'])} "
+        f"output={int(totals['output_tokens'])} total={int(totals['total_tokens'])} "
+        f"custo_usd={totals['cost_usd']:.6f}"
+    )
     print("-" * 72)
 
 

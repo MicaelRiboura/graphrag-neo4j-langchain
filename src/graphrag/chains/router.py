@@ -4,9 +4,9 @@ from typing import Literal
 
 from langchain_core.prompts import ChatPromptTemplate
 from pydantic import BaseModel, Field
-from langchain_openai import ChatOpenAI
 
 from graphrag.config import OPENAI_API_KEY, LLM_MODEL
+from graphrag.monitoring.token_cost import tracked_chat_openai
 
 
 class RouteDecision(BaseModel):
@@ -18,7 +18,7 @@ class RouteDecision(BaseModel):
     )
 
 
-_llm = ChatOpenAI(
+_llm = tracked_chat_openai(
     model=LLM_MODEL,
     temperature=0,
     api_key=OPENAI_API_KEY,

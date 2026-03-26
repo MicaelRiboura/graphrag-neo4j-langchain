@@ -37,6 +37,17 @@ DEFAULT_QUESTION = (
 )
 
 
+def _print_cost_totals(label: str) -> None:
+    from graphrag.monitoring.token_cost import TRACKER
+
+    totals = TRACKER.totals()
+    print(
+        f"[custo] {label}: input={int(totals['input_tokens'])} "
+        f"output={int(totals['output_tokens'])} total={int(totals['total_tokens'])} "
+        f"custo_usd={totals['cost_usd']:.6f}"
+    )
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Exemplo GraphRAG para o dataset US Oil & Gas preparado."
@@ -73,6 +84,9 @@ def run_indexing(input_dir: Path) -> None:
     from graphrag.indexing.communities import run_communities
     from graphrag.indexing.reports import run_reports
     from graphrag.indexing.embed import run_embed_all
+    from graphrag.monitoring.token_cost import TRACKER
+
+    TRACKER.reset("indexing")
 
     if not input_dir.is_dir():
         print(f"Diretorio de entrada nao encontrado: {input_dir}")
@@ -100,12 +114,20 @@ def run_indexing(input_dir: Path) -> None:
     run_embed_all()
     print("   Embeddings concluidos.")
     print("Indexacao finalizada.\n")
+    TRACKER.print_summary()
+    _print_cost_totals("indexacao")
 
 
 def run_question(question: str) -> str:
     from graphrag.graph import run_query
+    from graphrag.monitoring.token_cost import TRACKER
 
-    return run_query(question)
+    TRACKER.reset("query")
+    answer = run_query(question)
+    TRACKER.print_summary()
+    _print_cost_totals("query")
+    return answer
+
 
 
 def main() -> None:
